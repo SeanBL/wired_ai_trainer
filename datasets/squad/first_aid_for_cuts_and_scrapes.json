@@ -1,0 +1,1959 @@
+{
+  "data": [
+    {
+      "title": "First Aid for Cuts and Scrapes",
+      "paragraphs": [
+        {
+          "context": "Minor cuts and scrapes are often viewed as part of childhood and growing up. It is very common for children to have minor cuts and scrapes at home or school. A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound. A small cut should stop the bleeding quickly.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "Why are minor cuts and scrapes considered a part of childhood?",
+              "answers": [
+                {
+                  "text": "It is very common for children to have minor cuts and scrapes at home or school.",
+                  "answer_start": 77
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What is the body’s natural response to a minor cut?",
+              "answers": [
+                {
+                  "text": "The body’s response is to clot the wound. A small cut should stop the bleeding quickly.",
+                  "answer_start": 211
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "How quickly should a minor cut stop bleeding?",
+              "answers": [
+                {
+                  "text": "A minor cut should stop bleeding quickly on its own.",
+                  "answer_start": 158
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Where are children likely to get minor cuts and scrapes?",
+              "answers": [
+                {
+                  "text": "It is very common for children to have minor cuts and scrapes at home or school.",
+                  "answer_start": 77
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "What does the body do to stop a minor cut from bleeding?",
+              "answers": [
+                {
+                  "text": "The body’s response is to clot the wound. A small cut should stop the bleeding quickly.",
+                  "answer_start": 211
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Is it normal for kids to get cuts and scrapes?",
+              "answers": [
+                {
+                  "text": "It is very common for children to have minor cuts and scrapes at home or school.",
+                  "answer_start": 77
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "Should a small cut keep bleeding for a long time?",
+              "answers": [
+                {
+                  "text": "A minor cut should stop bleeding quickly on its own.",
+                  "answer_start": 158
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "What happens inside the body when a small cut forms?",
+              "answers": [
+                {
+                  "text": "The body’s response is to clot the wound.",
+                  "answer_start": 211
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "Why do small cuts stop bleeding quickly?",
+              "answers": [
+                {
+                  "text": "The body’s response is to clot the wound.",
+                  "answer_start": 211
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Mild cuts should \"ooze,\" meaning bleed slowly. Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "How should mild cuts bleed?",
+              "answers": [
+                {
+                  "text": "Mild cuts should \"ooze,\" meaning bleed slowly. Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What layers of the skin should be affected by mild cuts?",
+              "answers": [
+                {
+                  "text": "Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "When should you call an ambulance or seek emergency care for a cut?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "What does it mean if a cut is gushing or pulsating?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "My cut is bleeding really fast — what should I do?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Bleeding is spurting out — is that normal?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "Cut is pumping blood — what does that mean?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "When is bleeding considered an emergency?",
+              "answers": [
+                {
+                  "text": "Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care.",
+                  "answer_start": 160
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Most cuts and scrapes are minor injuries that can be treated at home. If the patient is a child, make sure to calm them and let them know you can help.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "How should most minor cuts and scrapes be treated?",
+              "answers": [
+                {
+                  "text": "Most cuts and scrapes are minor injuries that can be treated at home.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What should you do if the patient with a cut or scrape is a child?",
+              "answers": [
+                {
+                  "text": "If the patient is a child, make sure to calm them and let them know you can help.",
+                  "answer_start": 70
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Can I treat a small cut myself at home?",
+              "answers": [
+                {
+                  "text": "Most cuts and scrapes are minor injuries that can be treated at home.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "What should I say to a child who is scared after getting hurt?",
+              "answers": [
+                {
+                  "text": "If the patient is a child, make sure to calm them and let them know you can help.",
+                  "answer_start": 70
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Do I need to take my child to the doctor for a small scrape?",
+              "answers": [
+                {
+                  "text": "Most cuts and scrapes are minor injuries that can be treated at home.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do before touching a cut?",
+              "answers": [
+                {
+                  "text": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Why should you avoid direct contact with a patient’s blood or body fluids?",
+              "answers": [
+                {
+                  "text": "It will help prevent infection or disease transmission.",
+                  "answer_start": 152
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What should you use if available when treating a cut?",
+              "answers": [
+                {
+                  "text": "Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 208
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "What can you use if gloves are not available?",
+              "answers": [
+                {
+                  "text": "If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 243
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Do I need to wash my hands before helping someone with a cut?",
+              "answers": [
+                {
+                  "text": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Is it bad to touch blood without gloves?",
+              "answers": [
+                {
+                  "text": "Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission.",
+                  "answer_start": 73
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "What if I don't have gloves but need to help?",
+              "answers": [
+                {
+                  "text": "If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 243
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "Can I use anything else if I don’t have medical gloves?",
+              "answers": [
+                {
+                  "text": "If gloves are not available, place your hands inside a plastic bag.",
+                  "answer_start": 243
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do if you've come into contact with blood or other body fluids?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "When should you wash after coming into contact with blood?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What should you use to wash away blood or body fluids?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I got blood on my skin — what should I do?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How do I clean blood off my hands safely?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Is it okay to wait a while before washing off blood?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "What if blood splashed on me?",
+              "answers": [
+                {
+                  "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do if you're worried about the risk of infection?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "When should you seek advice about a possible infection?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Who should you contact if you're concerned about infection?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I'm worried my cut might get infected — what should I do?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How fast should I get help if I think there's an infection?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Who can tell me if my wound is infected?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "Should I wait to see if the infection gets worse before calling a doctor?",
+              "answers": [
+                {
+                  "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What is the first thing you should do after being cut?",
+              "answers": [
+                {
+                  "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "I have a cut. What should I do first?",
+              "answers": [
+                {
+                  "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "I just got cut. What should I do first?",
+              "answers": [
+                {
+                  "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "What is the most important thing to do after getting a cut?",
+              "answers": [
+                {
+                  "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "What should you use to stop the bleeding?",
+              "answers": [
+                {
+                  "text": "Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "How should the pad be applied to the wound?",
+              "answers": [
+                {
+                  "text": "Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "What can I use if I need to stop bleeding quickly?",
+              "answers": [
+                {
+                  "text": "Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "How do I press the pad on the wound?",
+              "answers": [
+                {
+                  "text": "Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 92
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "How long should I press on a bleeding cut?",
+              "answers": [
+                {
+                  "text": "Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.",
+                  "answer_start": 92
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Direct pressure will stop 90% or more of wounds from bleeding. If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "How many wounds can be stopped from bleeding with direct pressure?",
+              "answers": [
+                {
+                  "text": "Direct pressure will stop 90% or more of wounds from bleeding.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What should you do if a bandage soaks through with blood?",
+              "answers": [
+                {
+                  "text": "If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one.",
+                  "answer_start": 63
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Should you lift the bandage if it soaks through?",
+              "answers": [
+                {
+                  "text": "If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one.",
+                  "answer_start": 63
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "The bandage is soaking through — what should I do?",
+              "answers": [
+                {
+                  "text": "If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one.",
+                  "answer_start": 63
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Should I take off a bloody bandage?",
+              "answers": [
+                {
+                  "text": "If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one.",
+                  "answer_start": 63
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "How effective is direct pressure at stopping bleeding?",
+              "answers": [
+                {
+                  "text": "Direct pressure will stop 90% or more of wounds from bleeding.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do after stopping the bleeding?",
+              "answers": [
+                {
+                  "text": "Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What should you use to clean around the cut?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Where should you avoid getting soap?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Bleeding stopped — what do I do next?",
+              "answers": [
+                {
+                  "text": "Once you have stopped the bleeding, you need to wash out the wound.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How do I clean a cut properly?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "There’s dirt in the wound — what should I do?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "What can make cleaning a wound easier?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "What tool should you use to remove debris from a cut?",
+              "answers": [
+                {
+                  "text": "Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.",
+                  "answer_start": 267
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_9",
+              "question": "Is it okay to clean a wound in the shower?",
+              "answers": [
+                {
+                  "text": "Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower.",
+                  "answer_start": 68
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_10",
+              "question": "How do I get dirt or gravel out of a cut?",
+              "answers": [
+                {
+                  "text": "Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.",
+                  "answer_start": 267
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_11",
+              "question": "Do I need to clean tweezers before using them?",
+              "answers": [
+                {
+                  "text": "Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.",
+                  "answer_start": 267
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape. Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What can you use to cover a wound?",
+              "answers": [
+                {
+                  "text": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape. Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Why should you cover a wound?",
+              "answers": [
+                {
+                  "text": "Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry.",
+                  "answer_start": 83
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "When can you leave a wound uncovered?",
+              "answers": [
+                {
+                  "text": "Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry.",
+                  "answer_start": 83
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Why might some wounds heal more quickly when left uncovered?",
+              "answers": [
+                {
+                  "text": "Some wounds heal more quickly when left uncovered to stay dry.",
+                  "answer_start": 194
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How often should you change the dressing?",
+              "answers": [
+                {
+                  "text": "Change the dressing at least once a day or whenever the bandage becomes wet or dirty.",
+                  "answer_start": 257
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Do I need to cover every cut with a bandage?",
+              "answers": [
+                {
+                  "text": "If it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry.",
+                  "answer_start": 136
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "What’s better for a wound — covered or uncovered?",
+              "answers": [
+                {
+                  "text": "Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty.",
+                  "answer_start": 83
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "How often should I change the bandage on a cut?",
+              "answers": [
+                {
+                  "text": "Change the dressing at least once a day or whenever the bandage becomes wet or dirty.",
+                  "answer_start": 257
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "Can I use regular tape if I don't have medical tape?",
+              "answers": [
+                {
+                  "text": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do with the bleeding body part if possible?",
+              "answers": [
+                {
+                  "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What should you avoid applying to a bleeding wound?",
+              "answers": [
+                {
+                  "text": "Do not apply a tourniquet.",
+                  "answer_start": 80
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Should I lift the injured arm or leg above the heart?",
+              "answers": [
+                {
+                  "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Is it okay to use a tourniquet for bleeding?",
+              "answers": [
+                {
+                  "text": "Do not apply a tourniquet.",
+                  "answer_start": 80
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How can I help slow the bleeding without a tourniquet?",
+              "answers": [
+                {
+                  "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "Can all cuts and scrapes be treated at home?",
+              "answers": [
+                {
+                  "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "When should you seek medical assistance for a cut?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "I have a deep cut — should I go to the doctor?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "My cut is more than an inch long — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "The edges of my cut look jagged — is that bad?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "I can see fat or muscle in my wound — help?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "Will I need stitches for a deep cut?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required.",
+                  "answer_start": 90
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "I was bitten by a dog — do I need medical care?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Cut myself on something dirty — is that serious?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How do I know if I need a tetanus shot?",
+              "answers": [
+                {
+                  "text": "Seek medical advice if you're concerned about the possible risk of infection.",
+                  "answer_start": 116
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Bitten by someone — what now?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "There’s still dirt in the wound — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "I can't get a rock out of the cut — help?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What if I can’t remove all the gravel from a scrape?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "How do I know if it’s okay to leave something in the wound?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Still see stuff inside the cut — should I be worried?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should I do if I can't stop the bleeding?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "I've been bleeding for 12 minutes — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Is it normal to still be bleeding after 10 minutes?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "Bleeding for 15 minutes — is that bad?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Can't stop bleeding after pressing for a while — what now?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Still bleeding after 20 minutes — help?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "What if pressure doesn’t stop the bleeding after 10 minutes?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "How long should you hold pressure on a cut without stopping?",
+              "answers": [
+                {
+                  "text": "Hold pressure for five to ten minutes without stopping to look at the cut.",
+                  "answer_start": 52
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Should you stop and look at the cut while holding pressure?",
+              "answers": [
+                {
+                  "text": "Hold pressure for five to ten minutes without stopping to look at the cut.",
+                  "answer_start": 52
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I’m bleeding a lot — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How do I know if bleeding is bad enough to see a doctor?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Should I peek at the cut while pressing on it?",
+              "answers": [
+                {
+                  "text": "Hold pressure for five to ten minutes without stopping to look at the cut.",
+                  "answer_start": 52
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What should you do if the cloth becomes soaked with blood?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Should you remove a blood-soaked cloth from a wound?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Can I take off the first cloth if it's soaked?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "The cloth is full of blood — what now?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Do I need to replace the original cloth?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "When should you seek medical assistance after a cut?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What are some signs of infection in a wound?",
+              "answers": [
+                {
+                  "text": "Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 60
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What general illness symptoms could signal an infection?",
+              "answers": [
+                {
+                  "text": "Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 60
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I’m feeling sick after a cut — should I worry?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "The area around my cut is red and swollen — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "I can’t move my joint near the wound — is that serious?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "What if I have a fever after getting a cut?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "When should you seek medical assistance for a cut near the eye?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Should you get help for a large cut on the face?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "I got a cut really close to my eye — what should I do?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "There’s a big cut on my face — is that bad?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Should I treat a face cut at home?",
+              "answers": [
+                {
+                  "text": "Seek medical assistance if a cut is located close to the eye or a large cut on the face.",
+                  "answer_start": 90
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "A small cut can be cared for at home. A large cut needs prompt medical attention. The four most common types of injuries are abrasions, lacerations, punctures, and avulsions.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "Can a small cut be treated at home?",
+              "answers": [
+                {
+                  "text": "A small cut can be cared for at home.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What kind of cut requires medical attention?",
+              "answers": [
+                {
+                  "text": "A large cut needs prompt medical attention.",
+                  "answer_start": 38
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What are the four most common types of injuries?",
+              "answers": [
+                {
+                  "text": "The four most common types of injuries are abrasions, lacerations, punctures, and avulsions.",
+                  "answer_start": 82
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I have a minor cut — can I treat it myself?",
+              "answers": [
+                {
+                  "text": "A small cut can be cared for at home.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "What if the cut is really big?",
+              "answers": [
+                {
+                  "text": "A large cut needs prompt medical attention.",
+                  "answer_start": 38
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "When do I need to see a doctor for a wound?",
+              "answers": [
+                {
+                  "text": "A small cut can be cared for at home. A large cut needs prompt medical attention.",
+                  "answer_start": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall. Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What usually causes an abrasion?",
+              "answers": [
+                {
+                  "text": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall. Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Do abrasions bleed heavily?",
+              "answers": [
+                {
+                  "text": "Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 156
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "How should an abrasion be cleaned?",
+              "answers": [
+                {
+                  "text": "The area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 207
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "When might an abrasion need a bandage?",
+              "answers": [
+                {
+                  "text": "An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 296
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Do minor abrasions need medical care?",
+              "answers": [
+                {
+                  "text": "Minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 364
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "I scraped my skin on the pavement — is that an abrasion?",
+              "answers": [
+                {
+                  "text": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "There’s not much blood from the scrape — is that okay?",
+              "answers": [
+                {
+                  "text": "Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 156
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "Do I need to cover a scraped knee?",
+              "answers": [
+                {
+                  "text": "An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.",
+                  "answer_start": 296
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "How do I stop an abrasion from getting infected?",
+              "answers": [
+                {
+                  "text": "The area should be thoroughly cleaned and washed with soap and water to avoid infection.",
+                  "answer_start": 207
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What are lacerations?",
+              "answers": [
+                {
+                  "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What often causes lacerations?",
+              "answers": [
+                {
+                  "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Do lacerations bleed heavily?",
+              "answers": [
+                {
+                  "text": "Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "How do you stop bleeding from a laceration?",
+              "answers": [
+                {
+                  "text": "Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "When should a laceration be treated as a medical emergency?",
+              "answers": [
+                {
+                  "text": "Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "I cut myself with glass — is that a laceration?",
+              "answers": [
+                {
+                  "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "The bleeding from my cut won’t stop — what do I do?",
+              "answers": [
+                {
+                  "text": "If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 265
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "What should I do first for a deep cut?",
+              "answers": [
+                {
+                  "text": "Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 119
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "Can I treat a deep slice at home?",
+              "answers": [
+                {
+                  "text": "Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.",
+                  "answer_start": 119
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Punctures can occur when any type of pointed object, such as a nail, penetrates the skin. Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding. Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What causes a puncture wound?",
+              "answers": [
+                {
+                  "text": "Punctures can occur when any type of pointed object, such as a nail, penetrates the skin.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "Do puncture wounds bleed heavily?",
+              "answers": [
+                {
+                  "text": "Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding. Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What should you do after a puncture wound occurs?",
+              "answers": [
+                {
+                  "text": "Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 185
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "What should you apply before covering a puncture wound?",
+              "answers": [
+                {
+                  "text": "Before drying and covering with a bandage, apply antibiotic cream or ointment.",
+                  "answer_start": 257
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "What are signs of infection in a puncture wound?",
+              "answers": [
+                {
+                  "text": "Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 336
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "I stepped on a nail — what should I do?",
+              "answers": [
+                {
+                  "text": "Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 185
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "There’s not much blood — is the puncture still serious?",
+              "answers": [
+                {
+                  "text": "Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding.",
+                  "answer_start": 90
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "Should I use antibiotic cream on a puncture?",
+              "answers": [
+                {
+                  "text": "Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 257
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "How do I know if my puncture wound is infected?",
+              "answers": [
+                {
+                  "text": "Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever.",
+                  "answer_start": 336
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Avulsions are severe injuries that can cause uncontrolled, life-threatening bleeding. This type of injury typically occurs when skin or a body part is partially or completely torn away. These injuries often result from serious trauma, such as car or motorcycle accidents, explosions, or gunshots. In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed. For some avulsions, you may need to apply a tourniquet to stop the bleeding. If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "What are avulsions?",
+              "answers": [
+                {
+                  "text": "Avulsions are severe injuries that can cause uncontrolled, life-threatening bleeding. This type of injury typically occurs when skin or a body part is partially or completely torn away.",
+                  "answer_start": 0
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What causes avulsions?",
+              "answers": [
+                {
+                  "text": "These injuries often result from serious trauma, such as car or motorcycle accidents, explosions, or gunshots.",
+                  "answer_start": 186
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "Do avulsions bleed heavily?",
+              "answers": [
+                {
+                  "text": "In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed.",
+                  "answer_start": 297
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "When is emergency help needed for avulsions?",
+              "answers": [
+                {
+                  "text": "In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed.",
+                  "answer_start": 297
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "How can bleeding from an avulsion be stopped?",
+              "answers": [
+                {
+                  "text": "For some avulsions, you may need to apply a tourniquet to stop the bleeding.",
+                  "answer_start": 421
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "What should you do if a body part is severed?",
+              "answers": [
+                {
+                  "text": "If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible.",
+                  "answer_start": 498
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_6",
+              "question": "Why should you bring the severed part to the hospital?",
+              "answers": [
+                {
+                  "text": "For possible reattachment.",
+                  "answer_start": 562
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_7",
+              "question": "Can I use a tourniquet for this kind of bleeding?",
+              "answers": [
+                {
+                  "text": "For some avulsions, you may need to apply a tourniquet to stop the bleeding.",
+                  "answer_start": 421
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_8",
+              "question": "How do I preserve a severed finger or limb?",
+              "answers": [
+                {
+                  "text": "Wrap the body part in a clean cloth and pack it in ice, if possible.",
+                  "answer_start": 589
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Vaccinations would be needed in this scenario. If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "When is a tetanus booster needed after an injury?",
+              "answers": [
+                {
+                  "text": "If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "When should the tetanus shot be given after an injury?",
+              "answers": [
+                {
+                  "text": "It is best to get the tetanus shot within 48 hours of the injury.",
+                  "answer_start": 152
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "How soon should I get the tetanus shot after getting hurt?",
+              "answers": [
+                {
+                  "text": "Within 48 hours of the injury.",
+                  "answer_start": 187
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I don’t remember my last tetanus shot — what should I do?",
+              "answers": [
+                {
+                  "text": "It is best to get the tetanus shot within 48 hours of the injury.",
+                  "answer_start": 152
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Got injured and haven’t had a tetanus shot recently — help?",
+              "answers": [
+                {
+                  "text": "If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury.",
+                  "answer_start": 47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "Vaccinations would be needed in this scenario. If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+          "qas": [
+            {
+              "id": "first_aid_for_cuts_and_scrapes_0",
+              "question": "When are vaccinations needed after an injury?",
+              "answers": [
+                {
+                  "text": "If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_1",
+              "question": "What should you check if you're bitten by a dog or cat?",
+              "answers": [
+                {
+                  "text": "If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_2",
+              "question": "What should you do if you’re unsure about the animal’s vaccination status?",
+              "answers": [
+                {
+                  "text": "Consult with a doctor on the best way to proceed.",
+                  "answer_start": 176
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_3",
+              "question": "I was bitten by a dog — do I need a vaccine?",
+              "answers": [
+                {
+                  "text": "If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_4",
+              "question": "Bitten by a stray cat — what now?",
+              "answers": [
+                {
+                  "text": "If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+                  "answer_start": 47
+                }
+              ]
+            },
+            {
+              "id": "first_aid_for_cuts_and_scrapes_5",
+              "question": "Do I need to see a doctor after a pet bite?",
+              "answers": [
+                {
+                  "text": "If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed.",
+                  "answer_start": 47
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
