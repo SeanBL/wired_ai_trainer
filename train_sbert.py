@@ -5,9 +5,9 @@ from sentence_transformers import SentenceTransformer, InputExample, losses
 from torch.utils.data import DataLoader
 from checkpoint_manager import save_checkpoint
 
-def load_training_data(jsonl_path):
+def load_training_data(json_path):
     data = []
-    with open(jsonl_path, 'r', encoding='utf-8') as f:
+    with open(json_path, 'r', encoding='utf-8') as f:
         for line in f:
             entry = json.loads(line)
             data.append(InputExample(texts=[entry["sentence1"], entry["sentence2"]], label=float(entry["label"])))
@@ -26,8 +26,25 @@ def get_versioned_path(base_dir, base_name, version_tag=None):
     os.makedirs(full_path, exist_ok=True)
     return full_path
 
+def select_training_file(directory="datasets/sbert_train"):
+    jsonl_files = [f for f in os.listdir(directory) if f.endswith(".jsonl")]
+    if not jsonl_files:
+        print("❌ No .jsonl training files found.")
+        exit(1)
+
+    print("\n📄 Available training files:")
+    for idx, fname in enumerate(jsonl_files):
+        print(f"  [{idx}] {fname}")
+
+    choice = input("\n➡️  Select a file by number: ").strip()
+    if not choice.isdigit() or int(choice) < 0 or int(choice) >= len(jsonl_files):
+        print("❌ Invalid selection.")
+        exit(1)
+
+    return os.path.join(directory, jsonl_files[int(choice)])
+
 def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2", num_epochs=6, batch_size=32, version_tag=None):
-    print(f"📂 Loading training data from: {train_file}")
+    print(f"\n📂 Loading training data from: {train_file}")
     train_examples = load_training_data(train_file)
     print(f"✅ Loaded {len(train_examples)} training pairs")
 
@@ -37,7 +54,6 @@ def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2",
     train_dataloader = DataLoader(train_examples, shuffle=True, batch_size=batch_size)
     train_loss = losses.CosineSimilarityLoss(model)
 
-    # 📂 Get versioned output path
     output_path = get_versioned_path("models", "sbert_first_aid_finetuned", version_tag)
 
     print("🚀 Starting fine-tuning...")
@@ -50,20 +66,19 @@ def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2",
 
     print(f"✅ Model saved to: {output_path}")
 
-    # 📝 Save metadata + model using checkpoint_manager
     training_metadata = {
         "version": version_tag or "timestamped",
         "base_model": base_model,
         "dataset": os.path.basename(train_file),
         "epochs": num_epochs,
         "batch_size": batch_size,
-        "notes": "SBERT fine-tuned on first aid Q&A dataset."
+        "notes": "SBERT fine-tuned on healthcare Q&A dataset."
     }
 
     save_checkpoint(model, output_path, training_metadata)
 
 if __name__ == "__main__":
-    train_file = "datasets/sbert_train/first_aid_augmented.jsonl"
+    train_file = select_training_file("datasets/sbert_train")
 
     BASE_MODELS = {
         "general_fast": "sentence-transformers/all-MiniLM-L6-v2",
@@ -74,9 +89,9 @@ if __name__ == "__main__":
 
     selected_model = BASE_MODELS["general_fast"]  # Default model
 
-    # 👉 Optional: Add a manual version tag here if you want
     version_tag = input("📌 Enter a version tag (or leave blank for timestamp): ").strip() or None
 
     train_sbert(train_file, base_model=selected_model, version_tag=version_tag)
+
 
 

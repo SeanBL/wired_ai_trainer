@@ -1,44 +1,69 @@
+import os
+import json
 from parrot import Parrot
 import torch
-import json
 
-# Load Parrot paraphraser
+# Load Parrot model
 parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5", use_gpu=torch.cuda.is_available())
 
-# Load SBERT-style training data (jsonl)
-input_path = "datasets/sbert_jsonl/first_aid_for_cuts_and_scrapes.jsonl"
-output_path = "datasets/sbert_train/first_aid_augmented.jsonl"
+# Folder containing .jsonl files
+input_dir = "datasets/sbert_jsonl"
+output_dir = "datasets/sbert_train"
+os.makedirs(output_dir, exist_ok=True)
+
+# List available .jsonl files
+jsonl_files = [f for f in os.listdir(input_dir) if f.endswith(".jsonl")]
+if not jsonl_files:
+    print("❌ No .jsonl files found in:", input_dir)
+    exit()
+
+print("📄 Available .jsonl files:")
+for i, f in enumerate(jsonl_files):
+    print(f"  [{i}] {f}")
+
+# Ask user to pick a file
+try:
+    choice = int(input("\n➡️ Select a file to paraphrase by number: ").strip())
+    input_file = jsonl_files[choice]
+except (ValueError, IndexError):
+    print("❌ Invalid choice.")
+    exit()
+
+input_path = os.path.join(input_dir, input_file)
+base_name = os.path.splitext(input_file)[0]
+output_path = os.path.join(output_dir, f"{base_name}_augmented.jsonl")
+
+# Load dataset
+with open(input_path, 'r', encoding='utf-8') as f:
+    original_data = [json.loads(line.strip()) for line in f]
 
 augmented_data = []
 
-with open(input_path, 'r', encoding='utf-8') as f:
-    for line in f:
-        item = json.loads(line)
-        question = item["sentence1"]
-        answer = item["sentence2"]
-        label = item["label"]
+# Generate paraphrases
+for entry in original_data:
+    question = entry["sentence1"]
+    answer = entry["sentence2"]
+    label = entry["label"]
 
-        # Add original pair
-        augmented_data.append(item)
+    # Add original
+    augmented_data.append(entry)
 
-        # Generate paraphrases of the question
-        paraphrases = parrot.augment(
-            input_phrase=question,
-            use_gpu=torch.cuda.is_available(),
-            max_return_phrases=2
-        )
+    # Try generating up to 2 paraphrases
+    para_phrases = parrot.augment(input_phrase=question, use_gpu=torch.cuda.is_available(), max_return_phrases=2)
 
-        if paraphrases:
-            for para, _ in paraphrases:
-                augmented_data.append({
-                    "sentence1": para,
-                    "sentence2": answer,
-                    "label": label
-                })
+    if para_phrases:
+        for para, _ in para_phrases:
+            augmented_data.append({
+                "sentence1": para,
+                "sentence2": answer,
+                "label": label
+            })
 
-# Save to JSONL
-with open(output_path, 'w', encoding='utf-8') as f:
-    for item in augmented_data:
-        f.write(json.dumps(item, ensure_ascii=False) + "\n")
+# Save output as JSONL
+with open(output_path, "w", encoding="utf-8") as f:
+    for entry in augmented_data:
+        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
 
-print(f"✅ Augmented dataset saved to: {output_path}")
+print(f"\n✅ Augmented dataset saved to: {output_path}")
+print(f"📊 Total pairs (original + paraphrased): {len(augmented_data)}")
+

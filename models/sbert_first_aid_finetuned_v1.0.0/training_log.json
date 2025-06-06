@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "base_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dataset": "FA_cuts_scrapes_augmented.jsonl",
+  "epochs": 6,
+  "batch_size": 32,
+  "notes": "SBERT fine-tuned on healthcare Q&A dataset.",
+  "timestamp": "2025-06-06T02:22:20.898949"
+}
