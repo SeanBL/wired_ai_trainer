@@ -6,20 +6,15 @@ from colorama import Fore, Style
 from datetime import datetime
 
 def list_available_models(models_dir="models"):
-    models = [f for f in os.listdir(models_dir) if os.path.isdir(os.path.join(models_dir, f))]
-    return models
+    return [f for f in os.listdir(models_dir) if os.path.isdir(os.path.join(models_dir, f))]
 
-def load_paragraphs_from_squad(squad_path):
-    with open(squad_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-
-    paragraphs = []
-    for topic in data["data"]:
-        for para in topic["paragraphs"]:
-            text = para["context"].strip()
-            if text not in paragraphs:
-                paragraphs.append(text)
-    return paragraphs
+def load_paragraphs_from_jsonl(jsonl_path):
+    paragraphs = set()
+    with open(jsonl_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            entry = json.loads(line)
+            paragraphs.add(entry["sentence2"].strip())
+    return list(paragraphs)
 
 def generate_embeddings(paragraphs, model_path):
     print(Fore.YELLOW + f"📥 Loading model from: {model_path}")
@@ -34,7 +29,7 @@ def save_outputs(embeddings, paragraphs, out_dir="datasets/embeddings", version_
         version_tag = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     np.save(f"{out_dir}/sbert_embeddings_{version_tag}.npy", embeddings)
-    
+
     metadata = [{"id": i, "text": p} for i, p in enumerate(paragraphs)]
     with open(f"{out_dir}/sbert_metadata_{version_tag}.json", "w", encoding="utf-8") as f:
         json.dump(metadata, f, indent=2, ensure_ascii=False)
@@ -43,10 +38,10 @@ def save_outputs(embeddings, paragraphs, out_dir="datasets/embeddings", version_
     print(Fore.CYAN + f"✅ Saved metadata to: {out_dir}/sbert_metadata_{version_tag}.json")
 
 def main():
-    squad_path = "datasets/squad/first_aid_for_cuts_and_scrapes.json"
-    print(Fore.YELLOW + f"🔍 Loading paragraphs from: {squad_path}")
-    
-    paragraphs = load_paragraphs_from_squad(squad_path)
+    jsonl_path = "datasets/sbert_train/first_aid_augmented.jsonl"
+    print(Fore.YELLOW + f"🔍 Loading paragraphs from: {jsonl_path}")
+
+    paragraphs = load_paragraphs_from_jsonl(jsonl_path)
     print(Fore.YELLOW + f"🔢 Generating embeddings for {len(paragraphs)} unique paragraphs...\n")
 
     # 📌 Let user choose the model version

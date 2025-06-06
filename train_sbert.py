@@ -5,20 +5,23 @@ from sentence_transformers import SentenceTransformer, InputExample, losses
 from torch.utils.data import DataLoader
 from checkpoint_manager import save_checkpoint
 
-def load_training_data(json_path):
-    with open(json_path, 'r', encoding='utf-8') as f:
-        raw_data = json.load(f)
-    return [InputExample(texts=[entry["sentence1"], entry["sentence2"]], label=float(entry["label"])) for entry in raw_data]
+def load_training_data(jsonl_path):
+    data = []
+    with open(jsonl_path, 'r', encoding='utf-8') as f:
+        for line in f:
+            entry = json.loads(line)
+            data.append(InputExample(texts=[entry["sentence1"], entry["sentence2"]], label=float(entry["label"])))
+    return data
 
 def get_versioned_path(base_dir, base_name, version_tag=None):
     os.makedirs(base_dir, exist_ok=True)
-    
+
     if version_tag:
         version_name = f"{base_name}_v{version_tag}"
     else:
         timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
         version_name = f"{base_name}_{timestamp}"
-    
+
     full_path = os.path.join(base_dir, version_name)
     os.makedirs(full_path, exist_ok=True)
     return full_path
@@ -47,7 +50,7 @@ def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2",
 
     print(f"✅ Model saved to: {output_path}")
 
-        # 📝 Save metadata + model using checkpoint_manager
+    # 📝 Save metadata + model using checkpoint_manager
     training_metadata = {
         "version": version_tag or "timestamped",
         "base_model": base_model,
@@ -60,7 +63,7 @@ def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2",
     save_checkpoint(model, output_path, training_metadata)
 
 if __name__ == "__main__":
-    train_file = "datasets/sbert_train/first_aid_augmented.json"
+    train_file = "datasets/sbert_train/first_aid_augmented.jsonl"
 
     BASE_MODELS = {
         "general_fast": "sentence-transformers/all-MiniLM-L6-v2",
