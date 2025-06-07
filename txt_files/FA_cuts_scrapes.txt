@@ -88,15 +88,13 @@ Should I wait to see if the infection gets worse before calling a doctor?|||If y
 The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
 
 # QA  
-What is the first thing you should do after being cut?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding. 
-I have a cut. What should I do first?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding.
 I just got cut. What should I do first?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
-What is the most important thing to do after getting a cut?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
-What should you use to stop the bleeding?|||Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.  
+What is the most important thing to do after getting a cut?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes. 
 How should the pad be applied to the wound?|||Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes. 
 What can I use if I need to stop bleeding quickly?|||Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
 How do I press the pad on the wound?|||Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.  
 How long should I press on a bleeding cut?|||Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
+I've been cut and there is a lot of bleeding. What should I do?|||The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes.
 
 
 # Paragraph  
@@ -118,10 +116,9 @@ Once you have stopped the bleeding, you need to wash out the wound. Use soap and
 What should you do after stopping the bleeding?|||Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. 
 What should you use to clean around the cut?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. 
 Where should you avoid getting soap?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound.  
-
 Bleeding stopped — what do I do next?|||Once you have stopped the bleeding, you need to wash out the wound.  
 How do I clean a cut properly?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. 
-Is it okay to get soap inside a cut?|||Do not get the soap in the wound.
+Is it okay to get soap inside a cut?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound.
 There’s dirt in the wound — what should I do?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.
 What can make cleaning a wound easier?|||Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower.  
 What tool should you use to remove debris from a cut?|||Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections.    
@@ -173,8 +170,8 @@ Will I need stitches for a deep cut?|||Seek medical assistance if the cut is dee
 Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.
 
 # QA  
-I'm worried about infection — what should I do?|||Seek medical assistance.  
-Cut myself on something rusty — should I see a doctor?|||Seek medical assistance.  
+I'm worried about infection — what should I do?|||Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.  
+Cut myself on something rusty — should I see a doctor?|||Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.
 I was bitten by a dog — do I need medical care?|||Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.  
 Cut myself on something dirty — is that serious?|||Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection.
 How do I know if I need a tetanus shot?|||Seek medical advice if you're concerned about the possible risk of infection. 
@@ -205,16 +202,16 @@ Still bleeding after 20 minutes — help?|||Seek medical assistance if you canno
 What if pressure doesn’t stop the bleeding after 10 minutes?|||Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes.
 
 # Paragraph  
-Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut.
+Seek medical assistance if the bleeding is profuse. Hold pressure for five to ten minutes without stopping to look at the cut.
 
 # QA  
-When should you seek medical assistance for bleeding?|||Seek medical assistance if the bleeding is profuse, hold pressure for five to 10 minutes without stopping to look at the cut. 
+When should you seek medical assistance for bleeding?|||Seek medical assistance if the bleeding is profuse. Hold pressure for five to 10 minutes without stopping to look at the cut. 
 How long should you hold pressure on a cut without stopping?|||Hold pressure for five to ten minutes without stopping to look at the cut.
 Should you stop and look at the cut while holding pressure?|||Hold pressure for five to ten minutes without stopping to look at the cut.  
-I’m bleeding a lot — what should I do?|||Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut. 
-How do I know if bleeding is bad enough to see a doctor?|||Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut.  
+I’m bleeding a lot — what should I do?|||Seek medical assistance if the bleeding is profuse. Hold pressure for five to ten minutes without stopping to look at the cut. 
+How do I know if bleeding is bad enough to see a doctor?|||Seek medical assistance if the bleeding is profuse. 
 Should I peek at the cut while pressing on it?|||Hold pressure for five to ten minutes without stopping to look at the cut.  
-Bleeding won’t stop after 10 minutes — help?|||Seek medical assistance.
+Bleeding won’t stop after 10 minutes — help?|||Seek medical assistance if the bleeding is profuse.
 
 # Paragraph  
 Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one.
@@ -273,7 +270,7 @@ Do minor abrasions need medical care?|||Minor abrasions should heal on their own
 I scraped my skin on the pavement — is that an abrasion?|||Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall.  
 There’s not much blood from the scrape — is that okay?|||Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.  
 Do I need to cover a scraped knee?|||An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.  
-How do I stop an abrasion from getting infected?|||The area should be thoroughly cleaned and washed with soap and water to avoid infection.
+How do I stop an abrasion from getting infected?|||Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning.
 
 # Paragraph  
 Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed.
@@ -313,7 +310,7 @@ Do avulsions bleed heavily?|||In avulsions, bleeding will occur instantly and ex
 When is emergency help needed for avulsions?|||In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed.  
 How can bleeding from an avulsion be stopped?|||For some avulsions, you may need to apply a tourniquet to stop the bleeding.
 What should you do if a body part is severed?|||If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible. 
-Why should you bring the severed part to the hospital?|||For possible reattachment.   
+Why should you bring the severed part to the hospital?|||If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible.  
 Can I use a tourniquet for this kind of bleeding?|||For some avulsions, you may need to apply a tourniquet to stop the bleeding.  
 How do I preserve a severed finger or limb?|||Wrap the body part in a clean cloth and pack it in ice, if possible.
 
@@ -323,7 +320,7 @@ Vaccinations would be needed in this scenario. If the person with the injury has
 # QA  
 When is a tetanus booster needed after an injury?|||If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. 
 When should the tetanus shot be given after an injury?|||It is best to get the tetanus shot within 48 hours of the injury.  
-How soon should I get the tetanus shot after getting hurt?|||Within 48 hours of the injury.    
+How soon should I get the tetanus shot after getting hurt?|||It is best to get the tetanus shot within 48 hours of the injury.   
 I don’t remember my last tetanus shot — what should I do?|||It is best to get the tetanus shot within 48 hours of the injury. 
 Got injured and haven’t had a tetanus shot recently — help?|||If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury.
 

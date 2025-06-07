@@ -1,51 +1,51 @@
 [
   {
     "id": 0,
-    "text": "Direct pressure will stop 90% or more of wounds from bleeding. If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one."
+    "text": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut."
   },
   {
     "id": 1,
-    "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting."
+    "text": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall. Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning."
   },
   {
     "id": 2,
-    "text": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape. Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty."
+    "text": "Minor cuts and scrapes are often viewed as part of childhood and growing up. It is very common for children to have minor cuts and scrapes at home or school. A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound. A small cut should stop the bleeding quickly."
   },
   {
     "id": 3,
-    "text": "Mild cuts should \"ooze,\" meaning bleed slowly. Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care."
+    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required."
   },
   {
     "id": 4,
-    "text": "Most cuts and scrapes are minor injuries that can be treated at home. If the patient is a child, make sure to calm them and let them know you can help."
+    "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet."
   },
   {
     "id": 5,
-    "text": "Vaccinations would be needed in this scenario. If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed."
+    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if a cut is located close to the eye or a large cut on the face."
   },
   {
     "id": 6,
-    "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed."
+    "text": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag."
   },
   {
     "id": 7,
-    "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel."
+    "text": "Mild cuts should \"ooze,\" meaning bleed slowly. Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care."
   },
   {
     "id": 8,
-    "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection."
+    "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident."
   },
   {
     "id": 9,
-    "text": "A small cut can be cared for at home. A large cut needs prompt medical attention. The four most common types of injuries are abrasions, lacerations, punctures, and avulsions."
+    "text": "Punctures can occur when any type of pointed object, such as a nail, penetrates the skin. Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding. Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever."
   },
   {
     "id": 10,
-    "text": "Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections."
+    "text": "Vaccinations would be needed in this scenario. If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed."
   },
   {
     "id": 11,
-    "text": "Vaccinations would be needed in this scenario. If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury."
+    "text": "A small cut can be cared for at home. A large cut needs prompt medical attention. The four most common types of injuries are abrasions, lacerations, punctures, and avulsions."
   },
   {
     "id": 12,
@@ -53,54 +53,54 @@
   },
   {
     "id": 13,
-    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if a cut is located close to the eye or a large cut on the face."
+    "text": "Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections."
   },
   {
     "id": 14,
-    "text": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut."
+    "text": "Direct pressure will stop 90% or more of wounds from bleeding. If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one."
   },
   {
     "id": 15,
-    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required."
+    "text": "Vaccinations would be needed in this scenario. If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury."
   },
   {
     "id": 16,
-    "text": "Punctures can occur when any type of pointed object, such as a nail, penetrates the skin. Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding. Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever."
-  },
-  {
-    "id": 17,
-    "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes."
-  },
-  {
-    "id": 18,
-    "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet."
-  },
-  {
-    "id": 19,
-    "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible."
-  },
-  {
-    "id": 20,
     "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes."
   },
   {
+    "id": 17,
+    "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting."
+  },
+  {
+    "id": 18,
+    "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel."
+  },
+  {
+    "id": 19,
+    "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed."
+  },
+  {
+    "id": 20,
+    "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible."
+  },
+  {
     "id": 21,
-    "text": "Minor cuts and scrapes are often viewed as part of childhood and growing up. It is very common for children to have minor cuts and scrapes at home or school. A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound. A small cut should stop the bleeding quickly."
+    "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes."
   },
   {
     "id": 22,
-    "text": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag."
+    "text": "Avulsions are severe injuries that can cause uncontrolled, life-threatening bleeding. This type of injury typically occurs when skin or a body part is partially or completely torn away. These injuries often result from serious trauma, such as car or motorcycle accidents, explosions, or gunshots. In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed. For some avulsions, you may need to apply a tourniquet to stop the bleeding. If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible."
   },
   {
     "id": 23,
-    "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident."
+    "text": "Most cuts and scrapes are minor injuries that can be treated at home. If the patient is a child, make sure to calm them and let them know you can help."
   },
   {
     "id": 24,
-    "text": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall. Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning."
+    "text": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape. Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty."
   },
   {
     "id": 25,
-    "text": "Avulsions are severe injuries that can cause uncontrolled, life-threatening bleeding. This type of injury typically occurs when skin or a body part is partially or completely torn away. These injuries often result from serious trauma, such as car or motorcycle accidents, explosions, or gunshots. In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed. For some avulsions, you may need to apply a tourniquet to stop the bleeding. If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible."
+    "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection."
   }
 ]

@@ -1,83 +1,109 @@
-import os
-import difflib
-import string
+import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')  # <- this is what it's really asking for
+from sentence_transformers import SentenceTransformer, util
+from nltk.tokenize import sent_tokenize
+import sys
 
-def normalize(text):
-    return (
-        text.lower()
-        .strip()
-        .strip(string.punctuation)
-        .replace("’", "'")
-        .replace("“", '"')
-        .replace("”", '"')
-    )
+# Load SBERT model once
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-def is_fuzzy_match(answer, paragraph, threshold=0.95):
-    answer = normalize(answer)
-    paragraph = normalize(paragraph)
-    ratio = difflib.SequenceMatcher(None, answer, paragraph).ratio()
-    return ratio >= threshold
+# Thresholds
+SIMILARITY_THRESHOLD = 0.7         # For QA validation
+REDUNDANCY_THRESHOLD = 0.9         # For redundant question flagging
 
-def validate_module(input_file, threshold=0.95):
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.read().splitlines()
-
-    title = ""
-    paragraphs = []
-    current_paragraph = ""
-    current_qas = []
-
-    mode = None
+# Load QAs from structured file
+def load_paragraphs_and_qas(filepath):
+    with open(filepath, 'r', encoding='utf-8') as f:
+        lines = f.read().split('\n')
+    
+    dataset = []
+    paragraph = ""
+    qas = []
     for line in lines:
         line = line.strip()
-        if line == "":
-            continue
-
-        if line.startswith("# Title"):
-            mode = "title"
-            continue
-        elif line.startswith("# Paragraph"):
-            if current_paragraph:
-                paragraphs.append((current_paragraph.strip(), current_qas))
-                current_paragraph = ""
-                current_qas = []
-            mode = "paragraph"
-            continue
+        if line.startswith("# Paragraph"):
+            if paragraph and qas:
+                dataset.append({"paragraph": paragraph.strip(), "qas": qas})
+                qas = []
+            paragraph = ""
         elif line.startswith("# QA"):
-            mode = "qa"
             continue
+        elif "|||" in line:
+            q, a = line.split("|||")
+            qas.append((q.strip(), a.strip()))
+        elif line:
+            paragraph += " " + line.strip()
+    
+    if paragraph and qas:
+        dataset.append({"paragraph": paragraph.strip(), "qas": qas})
+    
+    return dataset
 
-        if mode == "title":
-            title = line.strip()
-        elif mode == "paragraph":
-            current_paragraph += " " + line.strip()
-        elif mode == "qa":
-            if "|||" in line:
-                question, answer = line.split("|||", 1)
-                current_qas.append((question.strip(), answer.strip()))
+# Validate whether each answer is supported by the paragraph
+def validate(dataset):
+    results = []
+    for i, entry in enumerate(dataset, start=1):
+        sentences = sent_tokenize(entry["paragraph"])
+        for q, a in entry["qas"]:
+            answer_emb = model.encode(a, convert_to_tensor=True)
+            max_score = 0
+            best_match = ""
+            for sentence in sentences:
+                sentence_emb = model.encode(sentence, convert_to_tensor=True)
+                score = util.cos_sim(answer_emb, sentence_emb).item()
+                if score > max_score:
+                    max_score = score
+                    best_match = sentence
+            results.append({
+                "Paragraph #": i,
+                "Question": q,
+                "Answer": a,
+                "Best Matching Sentence": best_match,
+                "Max Similarity": round(max_score, 3),
+                "✅ Is Supported": max_score >= SIMILARITY_THRESHOLD
+            })
+    return results
 
-    # Add last paragraph
-    if current_paragraph:
-        paragraphs.append((current_paragraph.strip(), current_qas))
+# Flag redundant questions in each paragraph
+def detect_redundant_questions(dataset):
+    print(f"\n🔁 Checking for redundant questions (similarity ≥ {REDUNDANCY_THRESHOLD})...")
+    for i, entry in enumerate(dataset, start=1):
+        questions = [q for q, _ in entry["qas"]]
+        if len(questions) < 2:
+            continue
+        embeddings = model.encode(questions, convert_to_tensor=True)
+        for j in range(len(questions)):
+            for k in range(j + 1, len(questions)):
+                sim = util.cos_sim(embeddings[j], embeddings[k]).item()
+                if sim >= REDUNDANCY_THRESHOLD:
+                    print(f"\n⚠️ Redundant Qs in Paragraph {i} (Similarity: {round(sim, 3)})")
+                    print(f"  Q1: {questions[j]}")
+                    print(f"  Q2: {questions[k]}")
 
-    print(f"\n🔍 Validating answers in: {input_file}")
-    total = 0
-    skipped = 0
+# Run validator
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("❌ Please provide a filename to validate.")
+        sys.exit(1)
 
-    for idx, (paragraph, qas) in enumerate(paragraphs):
-        for question, answer in qas:
-            total += 1
-            if normalize(answer) not in normalize(paragraph) and not is_fuzzy_match(answer, paragraph, threshold):
-                skipped += 1
-                print(f"⚠️ Skipped (not matched):\n  Q: {question}\n  A: {answer}\n  🔎 In Paragraph {idx + 1}\n")
+    filepath = sys.argv[1]
+    print(f"\n🔍 Validating answers in: {filepath}")
+    dataset = load_paragraphs_and_qas(filepath)
+    result = validate(dataset)
+
+    supported = [r for r in result if r["✅ Is Supported"]]
+    skipped = [r for r in result if not r["✅ Is Supported"]]
+
+    for r in skipped:
+        print(f"\n⚠️ Skipped (not matched):\n  Q: {r['Question']}\n  A: {r['Answer']}\n  🔎 In Paragraph {r['Paragraph #']}")
 
     print(f"\n📊 Validation Complete:")
-    print(f"✅ Answers found or fuzzy-matched: {total - skipped}")
-    print(f"❌ Answers skipped: {skipped}")
-    print(f"📄 Total QAs checked: {total}")
+    print(f"✅ Answers passed threshold: {len(supported)}")
+    print(f"❌ Answers skipped: {len(skipped)}")
+    print(f"📄 Total QAs checked: {len(result)}")
 
+    detect_redundant_questions(dataset)
 
-if __name__ == "__main__":
-    validate_module("txt_files/FA_cuts_scrapes.txt")
 
 

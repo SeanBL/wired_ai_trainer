@@ -87,11 +87,46 @@ if __name__ == "__main__":
         "bio_medical_advanced": "pritamdeka/S-BioBERT-snli-mnli-scitail-mednli-stsb"
     }
 
-    selected_model = BASE_MODELS["general_fast"]  # Default model
+    print("\n💡 Choose model to fine-tune:")
+    print("  [0] Base models")
+    print("  [1] Previously fine-tuned models")
+
+    mode_choice = input("\n➡️  Enter 0 or 1: ").strip()
+    if mode_choice == "0":
+        print("\n📆 Available base models:")
+        for idx, key in enumerate(BASE_MODELS.keys()):
+            print(f"  [{idx}] {key} -> {BASE_MODELS[key]}")
+
+        base_choice = input("\n➡️  Select a base model by number: ").strip()
+        base_keys = list(BASE_MODELS.keys())
+        if not base_choice.isdigit() or int(base_choice) not in range(len(base_keys)):
+            print("❌ Invalid selection.")
+            exit(1)
+        selected_model = BASE_MODELS[base_keys[int(base_choice)]]
+
+    elif mode_choice == "1":
+        model_dirs = [d for d in os.listdir("models") if os.path.isdir(os.path.join("models", d))]
+        if not model_dirs:
+            print("❌ No fine-tuned models found in 'models/' directory.")
+            exit(1)
+        print("\n📦 Available fine-tuned models:")
+        for idx, model in enumerate(model_dirs):
+            print(f"  [{idx}] {model}")
+
+        model_choice = input("\n➡️  Select a fine-tuned model by number: ").strip()
+        if not model_choice.isdigit() or int(model_choice) not in range(len(model_dirs)):
+            print("❌ Invalid selection.")
+            exit(1)
+        selected_model = os.path.join("models", model_dirs[int(model_choice)])
+
+    else:
+        print("❌ Invalid mode selection.")
+        exit(1)
 
     version_tag = input("📌 Enter a version tag (or leave blank for timestamp): ").strip() or None
 
     train_sbert(train_file, base_model=selected_model, version_tag=version_tag)
+
 
 
 

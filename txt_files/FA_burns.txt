@@ -1,0 +1,60 @@
+# Title
+First Aid for Burns
+
+# Paragraph  
+The World Health Organization defines burn as an injury to the skin or other tissue caused by heat or due to radiation, electricity, or contact with chemicals. Burns are primarily divided into three categories: First-degree or superficial burns; second-degree, or partial thickness burns; and third degree or full thickness burns.
+
+# QA  
+What is a burn according to the World Health Organization?|||An injury to the skin or other tissue caused by heat or due to radiation, electricity, or contact with chemicals.
+What causes burns?|||Heat, radiation, electricity, or contact with chemicals.
+How many categories are burns divided into?|||Burns are primarily divided into three categories.
+What are the three categories of burns?|||First-degree or superficial burns; second-degree, or partial thickness burns; and third degree or full thickness burns.
+
+# Paragraph  
+First-degree or superficial burns: that involve the external layer of skin and may occur from too much exposure to the sun or from very brief contact with hot objects or water. The skin is usually still intact, but may appear to be red, very warm or hot to touch and painful. There may also be small blisters and swelling in and around the area of injury. This first aid guide will mainly focus on the first degree or minor burns.
+
+# QA  
+What layer of skin is affected by a first-degree burn?|||The external layer of skin.
+What can cause a first-degree burn?|||Too much exposure to the sun or very brief contact with hot objects or water.
+What does the skin look like with a first-degree burn?|||It may appear to be red, very warm or hot to touch and painful.
+Is the skin still intact with a first-degree burn?|||Yes, the skin is usually still intact.
+What are possible symptoms of a first-degree burn?|||The skin may appear red, very warm or hot to touch and painful. There may also be small blisters and swelling in and around the area of injury.
+Can small blisters appear with first-degree burns?|||Yes, there may be small blisters.
+Will this first aid guide cover all types of burns?|||No, it will mainly focus on first-degree or minor burns.
+What type of burn is considered minor in this guide?|||First-degree burns.
+Where might swelling occur with a first-degree burn?|||In and around the area of injury.
+
+
+# Paragraph  
+Second-degree, or partial thickness burns: that involve the second layer of skin. This burn usually has the following characteristics: very red, blister formation, extremely painful and a fair amount of swelling. In general, if a second degree burn is smaller than 2-3 inches (7 centimeters) it usually may be treated as a minor burn. If the area burned is larger than 3 inches, or involves functional parts of the body such as feet, face, eye, ears, groin or located over major joints, more in-depth medical attention is needed. Take the person to the nearest location for medical treatment. Failure to do so may result in permanent disfigurement or loss of function.
+
+# QA  
+What layer of skin is affected by a second-degree burn?|||The second layer of skin.
+What are common symptoms of a second-degree burn?|||Very red skin, blister formation, extreme pain, and swelling.
+When can a second-degree burn be treated as a minor burn?|||If it is smaller than 2–3 inches (7 centimeters).
+What should be done if a second-degree burn affects sensitive areas like the face or joints?|||Take the person to the nearest location for medical treatment.
+Which areas require medical attention if burned?|||Feet, face, eye, ears, groin, or areas over major joints.
+What can happen if a serious second-degree burn is not treated?|||It may result in permanent disfigurement or loss of function.
+The burn is more than 3 inches wide. Should I go to a hospital?|||If the burn is larger than 3 inches, seek medical attention at the nearest location.
+What kind of swelling may occur with a second-degree burn?|||A fair amount of swelling.
+What does it mean if a burn has blisters?|||It is a common symptom of a second-degree burn.
+My burn is about 2 inches wide and has some blisters. Is it serious?|||If a second-degree burn is smaller than 2–3 inches (7 centimeters), it usually may be treated as a minor burn.
+Got burned near my eye — is that dangerous?|||If the area burned involves the eye, more in-depth medical attention is needed. Take the person to the nearest location for medical treatment.
+
+# Paragraph  
+Third-degree or full thickness burns: are NOT minor burns and should be evaluated and treated by a healthcare provider. A third-degree burn is a very serious burn, no matter the size or area of the body involved. A third-degree burn involves all layers of the skin and can cause permanent tissue damage. The skin may appear to be charred, blackened, or white. The skin texture may be very dry or leathery. All third-degree burns should be evaluated by a healthcare provider immediately.
+
+# QA  
+Are third-degree burns considered minor?|||No, third-degree burns are not minor and should be evaluated by a healthcare provider.
+How serious is a third-degree burn?|||A third-degree burn is a very serious burn, no matter the size or area of the body involved.
+What layers of skin are affected by a third-degree burn?|||A third-degree burn involves all layers of the skin.
+Can third-degree burns cause permanent damage?|||They can cause permanent tissue damage.
+What might the skin look like with a third-degree burn?|||The skin may appear to be charred, blackened, or white.
+What might the skin texture be like with a third-degree burn?|||The skin texture may be very dry or leathery.
+Who should evaluate a third-degree burn?|||A healthcare provider should evaluate it immediately.
+Should all third-degree burns be evaluated by a professional?|||All third-degree burns should be evaluated by a healthcare provider immediately.
+Does the size or location of a third-degree burn affect how serious it is?|||A third-degree burn is a very serious burn, no matter the size or area of the body involved.
+Why is a third-degree burn dangerous?|||A third-degree burn involves all layers of the skin and can cause permanent tissue damage.
+
+
+
