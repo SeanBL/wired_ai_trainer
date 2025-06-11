@@ -2,13 +2,18 @@ import os
 import json
 from parrot import Parrot
 import torch
+from sentence_transformers import SentenceTransformer, util
 
-# Load Parrot model
+# Load Parrot
 parrot = Parrot(model_tag="prithivida/parrot_paraphraser_on_T5", use_gpu=torch.cuda.is_available())
 
-# Folder containing .jsonl files
-input_dir = "datasets/sbert_jsonl"
-output_dir = "datasets/sbert_train"
+# Load SBERT for filtering
+similarity_model = SentenceTransformer("all-MiniLM-L6-v2")
+PARAPHRASE_SIMILARITY_THRESHOLD = 0.75
+
+# Folder paths
+input_dir = "datasets/sbert_labeled"
+output_dir = "datasets/sbert_augmented"
 os.makedirs(output_dir, exist_ok=True)
 
 # List available .jsonl files
@@ -17,7 +22,7 @@ if not jsonl_files:
     print("❌ No .jsonl files found in:", input_dir)
     exit()
 
-print("📄 Available .jsonl files:")
+print("📄 Available labeled .jsonl files:")
 for i, f in enumerate(jsonl_files):
     print(f"  [{i}] {f}")
 
@@ -39,31 +44,39 @@ with open(input_path, 'r', encoding='utf-8') as f:
 
 augmented_data = []
 
-# Generate paraphrases
+# Generate and filter paraphrases
 for entry in original_data:
     question = entry["sentence1"]
     answer = entry["sentence2"]
     label = entry["label"]
 
-    # Add original
+    # Always include the original
     augmented_data.append(entry)
 
-    # Try generating up to 2 paraphrases
     para_phrases = parrot.augment(input_phrase=question, use_gpu=torch.cuda.is_available(), max_return_phrases=2)
 
     if para_phrases:
+        original_emb = similarity_model.encode(question, convert_to_tensor=True)
         for para, _ in para_phrases:
-            augmented_data.append({
-                "sentence1": para,
-                "sentence2": answer,
-                "label": label
-            })
+            para_emb = similarity_model.encode(para, convert_to_tensor=True)
+            sim_score = util.cos_sim(original_emb, para_emb).item()
 
-# Save output as JSONL
+            if sim_score >= PARAPHRASE_SIMILARITY_THRESHOLD:
+                augmented_data.append({
+                    "sentence1": para,
+                    "sentence2": answer,
+                    "label": label
+                })
+            else:
+                print(f"\n❌ Skipped (similarity = {sim_score:.3f}):")
+                print(f"  Original: {question}")
+                print(f"  Paraphrased: {para}")
+
+# Save result
 with open(output_path, "w", encoding="utf-8") as f:
-    for entry in augmented_data:
-        f.write(json.dumps(entry, ensure_ascii=False) + "\n")
+    for item in augmented_data:
+        f.write(json.dumps(item, ensure_ascii=False) + "\n")
 
 print(f"\n✅ Augmented dataset saved to: {output_path}")
-print(f"📊 Total pairs (original + paraphrased): {len(augmented_data)}")
+print(f"📊 Total pairs (original + accepted paraphrases): {len(augmented_data)}")
 

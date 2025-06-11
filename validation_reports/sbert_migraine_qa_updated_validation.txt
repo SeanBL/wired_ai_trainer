@@ -1,0 +1,74 @@
+📊 Validation Report for sbert_migraine_qa_updated
+Total QA pairs: 27
+✅ Supported (similarity ≥ 0.7): 18
+❌ Skipped (below threshold): 9
+⚠️ Redundant questions (≥ 0.9): 4
+📎 Duplicates: 0
+
+❌ Low-similarity QAs:
+
+  #6 (Sim: 0.687)
+  Q: What lifestyle changes can help prevent migraines?
+  A: Helpful lifestyle changes include regular exercise, eating scheduled meals, staying hydrated, managing stress, avoiding migraine-triggering foods and medications, maintaining a consistent sleep schedule, and pursuing weight loss if obese.
+
+  #8 (Sim: 0.7)
+  Q: Are natural supplements helpful for migraines?
+  A: Some natural treatments like riboflavin (B2), magnesium, coenzyme Q10, and butterbur may help reduce migraine symptoms, but consult a doctor before trying them.
+
+  #9 (Sim: 0.476)
+  Q: When should I go to the ER for a migraine?
+  A: Seek emergency care if you experience:
+- The worst headache of your life
+- Confusion, fever, or loss of vision or consciousness
+- Neck stiffness, difficulty speaking, or weakness
+- Uncontrollable vomiting
+- A headache lasting over 72 hours with less than 4 hours pain-free
+- A headache that reaches peak intensity within 1–2 minutes
+
+  #15 (Sim: 0.482)
+  Q: What if I don't have a migraine treatment plan?
+  A: If you don’t have a treatment plan, speak with your physician. Having a plan can help you manage symptoms effectively and reduce the need for emergency care.
+
+  #20 (Sim: 0.359)
+  Q: Is it safe to try herbal supplements for migraines?
+  A: Natural supplements like butterbur or coenzyme Q10 may help some people, but always consult a physician before starting them to ensure safe and coordinated care.
+
+  #23 (Sim: 0.578)
+  Q: When does a migraine become an emergency?
+  A: Go to the ER if you experience:
+- The worst headache of your life
+- Confusion, fever, or loss of vision or consciousness
+- Neck stiffness, difficulty speaking, or weakness
+- Uncontrollable vomiting
+- A headache lasting over 72 hours with less than 4 hours pain-free
+- A headache that peaks within 1–2 minutes
+
+  #25 (Sim: 0.689)
+  Q: I've had a headache for 24 hours. What should I do?
+  A: If your headache has lasted 24 hours, follow your treatment plan if you have one. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief.
+
+  #26 (Sim: 0.635)
+  Q: I've had a headache for 2 days. What should I do?
+  A: If your headache has lasted 48 hours (2 days) and matches your typical migraine pattern, follow your treatment plan. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief.
+
+  #27 (Sim: 0.668)
+  Q: I've had a headache for 48 hours. What should I do?
+  A: If your headache has lasted 48 hours (2 days) and matches your typical migraine pattern, follow your treatment plan. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief.
+
+⚠️ Redundant Questions:
+
+  Q21 ↔ Q24 (Sim: 0.982)
+    Q1: I've had a migraine for 48 hours. What should I do?
+    Q2: I've had a migraine for 24 hours. What should I do?
+
+  Q25 ↔ Q26 (Sim: 0.922)
+    Q1: I've had a headache for 24 hours. What should I do?
+    Q2: I've had a headache for 2 days. What should I do?
+
+  Q25 ↔ Q27 (Sim: 0.97)
+    Q1: I've had a headache for 24 hours. What should I do?
+    Q2: I've had a headache for 48 hours. What should I do?
+
+  Q26 ↔ Q27 (Sim: 0.926)
+    Q1: I've had a headache for 2 days. What should I do?
+    Q2: I've had a headache for 48 hours. What should I do?

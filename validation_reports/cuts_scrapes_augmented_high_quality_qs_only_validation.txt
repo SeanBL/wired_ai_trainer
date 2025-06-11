@@ -1,0 +1,252 @@
+📊 Validation Report for cuts_scrapes_augmented_high_quality_qs_only
+Total QA pairs: 43
+✅ Supported (similarity ≥ 0.7): 18
+❌ Skipped (below threshold): 25
+⚠️ Redundant questions (≥ 0.9): 3
+📎 Duplicates: 0
+
+❌ Low-similarity QAs:
+
+  #3 (Sim: 0.505)
+  Q: What symptoms indicate a cut or scrape is minor?
+  A: A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound, and a small cut should stop bleeding quickly. Mild cuts should "ooze," meaning bleed slowly, because bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow, which requires an immediate call for an ambulance or emergency care.
+
+  #6 (Sim: 0.498)
+  Q: How should I care for a small cut?
+  A: To treat a mild cut or scrape:
+
+- Wash your hands before touching the wound
+- Avoid contact with blood by using gloves or a plastic bag
+- Apply firm pressure with a clean pad for a few minutes to stop bleeding
+- Clean the area around the wound with soap and water (avoid getting soap in the wound)
+- Use sterilized tweezers to remove debris like dirt or glass
+- Cover the wound with a sterile bandage or gauze and medical tape
+- Change the dressing daily or whenever it becomes wet or dirty
+
+  #7 (Sim: 0.586)
+  Q: What should be the immediate response to a cut?
+  A: The first steps after a cut are:
+
+- Apply direct pressure using a clean or sterile pad for several minutes
+- Do not lift the bandage if blood soaks through — add a new one on top
+- Continue pressure until bleeding slows or stops
+
+  #8 (Sim: 0.676)
+  Q: What is the first step I should take after getting a cut?
+  A: The first steps after a cut are:
+
+- Apply direct pressure using a clean or sterile pad for several minutes
+- Do not lift the bandage if blood soaks through — add a new one on top
+- Continue pressure until bleeding slows or stops
+
+  #10 (Sim: 0.698)
+  Q: How do I properly wash a cut to avoid infection?
+  A: To clean a cut:
+
+- Use soap and water to clean the skin around the wound
+- Avoid getting soap inside the wound
+- Rinse under running water or in the shower
+- Use sterilized tweezers to gently remove dirt, gravel, or other debris
+- Dry the area and cover it with a bandage to prevent infection
+
+  #12 (Sim: 0.645)
+  Q: Is it okay to leave a wound open?
+  A: A cut can be left uncovered if it is a minor scrape and stays clean and dry. Some wounds:
+
+- Heal faster when exposed to air
+- Still benefit from a covering to prevent infection, especially in dirty environments
+- Should be monitored and bandaged if healing slows or the area becomes irritated
+
+  #13 (Sim: 0.693)
+  Q: When is it safe not to bandage a cut?
+  A: A cut can be left uncovered if it is a minor scrape and stays clean and dry. Some wounds:
+
+- Heal faster when exposed to air
+- Still benefit from a covering to prevent infection, especially in dirty environments
+- Should be monitored and bandaged if healing slows or the area becomes irritated
+
+  #15 (Sim: 0.513)
+  Q: What should I do to safely help someone who's bleeding?
+  A: When treating another person’s cut:
+
+- Wash your hands before and after treatment
+- Use disposable gloves or put your hands in a plastic bag
+- Avoid direct contact with the person's blood or body fluids
+- If blood contacts your skin, wash thoroughly with soap and water
+- Seek medical advice if there’s concern about infection risk
+
+  #16 (Sim: 0.671)
+  Q: How can I protect myself when treating another person’s wound?
+  A: When treating another person’s cut:
+
+- Wash your hands before and after treatment
+- Use disposable gloves or put your hands in a plastic bag
+- Avoid direct contact with the person's blood or body fluids
+- If blood contacts your skin, wash thoroughly with soap and water
+- Seek medical advice if there’s concern about infection risk
+
+  #17 (Sim: 0.621)
+  Q: When should I seek medical help for a cut?
+  A: Seek professional medical care if:
+
+- The cut is deep (more than 1 inch / 2.5 cm), jagged, or has visible fat or muscle
+- The wound was caused by a dirty or rusty object, animal or human bite, or is a puncture
+- You cannot remove all debris from the wound
+- Bleeding continues after 10–20 minutes of firm pressure
+- Signs of infection appear (pain, swelling, redness, fever, nausea)
+- The cut is near the eye or is large and on the face
+
+  #18 (Sim: 0.587)
+  Q: When do cuts require professional medical attention?
+  A: Seek professional medical care if:
+
+- The cut is deep (more than 1 inch / 2.5 cm), jagged, or has visible fat or muscle
+- The wound was caused by a dirty or rusty object, animal or human bite, or is a puncture
+- You cannot remove all debris from the wound
+- Bleeding continues after 10–20 minutes of firm pressure
+- Signs of infection appear (pain, swelling, redness, fever, nausea)
+- The cut is near the eye or is large and on the face
+
+  #19 (Sim: 0.552)
+  Q: What are warning signs that a cut needs a doctor?
+  A: Seek professional medical care if:
+
+- The cut is deep (more than 1 inch / 2.5 cm), jagged, or has visible fat or muscle
+- The wound was caused by a dirty or rusty object, animal or human bite, or is a puncture
+- You cannot remove all debris from the wound
+- Bleeding continues after 10–20 minutes of firm pressure
+- Signs of infection appear (pain, swelling, redness, fever, nausea)
+- The cut is near the eye or is large and on the face
+
+  #21 (Sim: 0.629)
+  Q: How can I recognize an infected wound?
+  A: Watch for the following signs of infection:
+
+- Pain that worsens over time
+- Redness spreading from the wound
+- Pus or drainage from the wound
+- Swelling or inability to move nearby joints
+- Fever, headache, nausea, or vomiting
+
+  #22 (Sim: 0.621)
+  Q: How do I know if my cut is infected?
+  A: Watch for the following signs of infection:
+
+- Pain that worsens over time
+- Redness spreading from the wound
+- Pus or drainage from the wound
+- Swelling or inability to move nearby joints
+- Fever, headache, nausea, or vomiting
+
+  #23 (Sim: 0.615)
+  Q: How do I know if my cut is infected?
+  A: Seek professional medical care if:
+
+- The cut is deep (more than 1 inch / 2.5 cm), jagged, or has visible fat or muscle
+- The wound was caused by a dirty or rusty object, animal or human bite, or is a puncture
+- You cannot remove all debris from the wound
+- Bleeding continues after 10–20 minutes of firm pressure
+- Signs of infection appear (pain, swelling, redness, fever, nausea)
+- The cut is near the eye or is large and on the face
+
+  #24 (Sim: 0.542)
+  Q: What are signs of infection in a wound?
+  A: To treat a mild cut or scrape at home:
+
+- Wash your hands before touching the wound
+- Avoid contact with blood by using gloves or a plastic bag
+- Apply firm pressure with a clean pad for a few minutes to stop bleeding
+- Clean the area around the wound with soap and water (avoid getting soap in the wound)
+- Use sterilized tweezers to remove debris like dirt or glass
+- Cover the wound with a sterile bandage or gauze and medical tape
+- Change the dressing daily or whenever it becomes wet or dirty
+
+  #27 (Sim: 0.58)
+  Q: How are abrasions, lacerations, and punctures different?
+  A: There are four common types of skin injuries:
+
+1. **Abrasions** – Surface scrapes usually caused by friction
+2. **Lacerations** – Deep cuts or tears caused by sharp objects
+3. **Punctures** – Small but deep wounds caused by pointed objects
+4. **Avulsions** – Skin or tissue is partially or completely torn away, often due to trauma
+
+  #29 (Sim: 0.546)
+  Q: How should surface scrapes be treated?
+  A: To treat an abrasion:
+
+- Rinse the area thoroughly with soap and water to prevent infection
+- Cover with a bandage if needed (for deeper abrasions)
+- Minor abrasions may heal best when left uncovered after cleaning
+
+  #31 (Sim: 0.489)
+  Q: What is the correct treatment for a deep cut?
+  A: To treat a laceration:
+
+- Stop the bleeding by applying firm pressure
+- Clean the wound and remove visible debris
+- Cover the area with a sterile bandage
+- Seek medical care if the laceration is deep or bleeding heavily
+
+  #34 (Sim: 0.516)
+  Q: What steps do I follow for a small but deep wound?
+  A: To treat a puncture wound:
+
+- Rinse the wound with clean water to remove dirt
+- Apply antibiotic ointment
+- Cover with a sterile bandage
+- Watch for signs of infection such as redness, pain, swelling, or fever
+
+  #37 (Sim: 0.603)
+  Q: How do you treat a wound where skin is torn away?
+  A: Avulsions are severe injuries where skin or tissue is torn away. Treatment includes:
+
+- Call emergency services immediately
+- Apply pressure to control bleeding
+- If a body part is severed, wrap it in a clean cloth and keep it on ice
+- Some avulsions may require a tourniquet (only in extreme emergencies)
+
+  #39 (Sim: 0.699)
+  Q: Why might I need a tetanus shot after a cut?
+  A: A tetanus shot is needed if:
+
+- The person has not received a tetanus booster in the past 5 years
+- The wound is dirty, deep, or caused by a rusty or contaminated object
+- The shot is most effective when given within 48 hours of injury
+
+  #41 (Sim: 0.611)
+  Q: What should I do if bitten by an animal?
+  A: For animal bites:
+
+- Determine if the animal's rabies vaccinations are up to date
+- Clean the wound thoroughly
+- Seek medical advice immediately to evaluate rabies risk and the need for post-exposure treatment
+
+  #42 (Sim: 0.663)
+  Q: What steps should I take after being bitten by an animal?
+  A: For animal bites:
+
+- Determine if the animal's rabies vaccinations are up to date
+- Clean the wound thoroughly
+- Seek medical advice immediately to evaluate rabies risk and the need for post-exposure treatment
+
+  #43 (Sim: 0.581)
+  Q: What is the recommended action following an animal bite?
+  A: For animal bites:
+
+- Determine if the animal's rabies vaccinations are up to date
+- Clean the wound thoroughly
+- Seek medical advice immediately to evaluate rabies risk and the need for post-exposure treatment
+
+⚠️ Redundant Questions:
+
+  Q20 ↔ Q24 (Sim: 1.0)
+    Q1: What are signs of infection in a wound?
+    Q2: What are signs of infection in a wound?
+
+  Q22 ↔ Q23 (Sim: 1.0)
+    Q1: How do I know if my cut is infected?
+    Q2: How do I know if my cut is infected?
+
+  Q41 ↔ Q42 (Sim: 0.902)
+    Q1: What should I do if bitten by an animal?
+    Q2: What steps should I take after being bitten by an animal?

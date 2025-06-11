@@ -64,6 +64,10 @@ def train_sbert(train_file, base_model="sentence-transformers/all-MiniLM-L6-v2",
         output_path=output_path
     )
 
+    # 🔧 Ensure full model export (this saves pytorch_model.bin, config, vocab, etc.)
+    print(f"💾 Exporting complete SBERT model to: {output_path}")
+    model.save(output_path)
+
     print(f"✅ Model saved to: {output_path}")
 
     training_metadata = {
