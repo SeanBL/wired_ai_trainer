@@ -1,106 +1,402 @@
 [
   {
     "id": 0,
-    "text": "Seek medical assistance if the bleeding is profuse, hold pressure for five to ten minutes without stopping to look at the cut."
+    "text": "Seek medical help if:\n- The burn is chemical or electrical.\n- The burn is large, deep, white, or charred.\n- Blisters form on face, hands, feet, genitals, or major joints.\n- The person shows signs of shock or smoke inhalation.\n- The person is pregnant, under 5, over 60, or has chronic health conditions or a weakened immune system."
   },
   {
     "id": 1,
-    "text": "Abrasions are usually the result of a rub or scrape on a rough surface, like skinning your knee on the playground or scratching your elbow on a brick wall. Typically, an abrasion will not bleed heavily, but the area should be thoroughly cleaned and washed with soap and water to avoid infection. An abrasion may require a bandage or dressing in extreme cases, but minor abrasions should heal on their own after cleaning."
+    "text": "To treat a laceration:\n\n- Stop the bleeding by applying firm pressure\n- Clean the wound and remove visible debris\n- Cover the area with a sterile bandage\n- Seek medical care if the laceration is deep or bleeding heavily"
   },
   {
     "id": 2,
-    "text": "Minor cuts and scrapes are often viewed as part of childhood and growing up. It is very common for children to have minor cuts and scrapes at home or school. A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound. A small cut should stop the bleeding quickly."
+    "text": "Infected burns may appear redder than usual, feel increasingly painful, produce pus or have a bad odor, and may be accompanied by fever. Seek medical care if these symptoms develop."
   },
   {
     "id": 3,
-    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if the cut is deep or long (more than 1 inch 2.5 cm), or the edges are jagged or have fat or muscle protruding. Stitches and a tetanus shot may be required."
+    "text": "Soak a towel or washcloth in cool water, wring out excess water, and apply it to the forehead, hands, and feet. Applying cold compresses continuously over the body may reduce core temperature by 2–3°F in 20–30 minutes."
   },
   {
     "id": 4,
-    "text": "If you can, raise the bleeding body part above the level of the person’s heart. Do not apply a tourniquet."
+    "text": "Burns are categorized into three main types:\n- First-degree (superficial): Affects the outer layer of skin. Skin appears red, warm, and painful, sometimes with small blisters.\n- Second-degree (partial thickness): Affects deeper layers of skin, appears red with blisters, very painful, and may swell.\n- Third-degree (full thickness): Affects all skin layers. Skin may look charred, white, or leathery. Immediate medical care is required."
   },
   {
     "id": 5,
-    "text": "While most cuts and scrapes can be treated at home, some injuries need professional care. Seek medical assistance if a cut is located close to the eye or a large cut on the face."
+    "text": "Yes, sunburn can often be treated at home. Cool the area, apply aloe vera gel, stay hydrated, and avoid further sun exposure. Seek care if blistering or fever develops."
   },
   {
     "id": 6,
-    "text": "Remember to wash your hand before touching the cut to prevent infection. Try to avoid any direct contact with the patient’s blood or other body fluids. It will help prevent infection or disease transmission. Use disposable gloves if possible. If gloves are not available, place your hands inside a plastic bag."
+    "text": "If a child younger than 2 years old has a fever of 100.4°F (38°C) that lasts for more than 1 day, you should consult a healthcare provider."
   },
   {
     "id": 7,
-    "text": "Mild cuts should \"ooze,\" meaning bleed slowly. Minor bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow. Bleeding that gushes or has a pulsating flow requires an immediate call for an ambulance or emergency care."
+    "text": "If a baby is fussy or cries and cannot be soothed while also having a fever, you should seek medical care immediately, as this may indicate a more serious condition."
   },
   {
     "id": 8,
-    "text": "If there has been any contact with blood or any other body fluids, wash your hands or any blood splashed on the skin thoroughly with soap and water as soon as possible after the incident."
+    "text": "Seek emergency care if you experience:\n- The worst headache of your life\n- Confusion, fever, or loss of vision or consciousness\n- Neck stiffness, difficulty speaking, or weakness\n- Uncontrollable vomiting\n- A headache lasting over 72 hours with less than 4 hours pain-free\n- A headache that reaches peak intensity within 1–2 minutes"
   },
   {
     "id": 9,
-    "text": "Punctures can occur when any type of pointed object, such as a nail, penetrates the skin. Puncture wounds may not bleed much outwardly, but a deep puncture can cause internal bleeding. Apply pressure and rinse the wound with clean water to remove all dirt. Before drying and covering with a bandage, apply antibiotic cream or ointment. Watch the puncture for signs of infection, such as spreading redness, pain, swelling, or fever."
+    "text": "Yes. Aloe vera has anti-inflammatory, antibacterial, and wound-healing properties. Apply pure aloe vera gel to cooled first- or second-degree burns to soothe pain and promote healing."
   },
   {
     "id": 10,
-    "text": "Vaccinations would be needed in this scenario. If the wound is from a cat, dog, or other animal bite, it is important to find out if the animal's rabies vaccine is up to date. Consult with a doctor on the best way to proceed."
+    "text": "You should go to the ER if your headache lasts more than 72 hours with less than 4 hours pain-free."
   },
   {
     "id": 11,
-    "text": "A small cut can be cared for at home. A large cut needs prompt medical attention. The four most common types of injuries are abrasions, lacerations, punctures, and avulsions."
+    "text": "Some natural treatments like riboflavin (B2), magnesium, coenzyme Q10, and butterbur may help reduce migraine symptoms, but consult a doctor before trying them."
   },
   {
     "id": 12,
-    "text": "Seek medical assistance if the cloth becomes soaked with blood, put a new cloth on top of the old one."
+    "text": "Using ice, butter, or greasy substances on a burn can worsen the injury and increase the risk of infection. Ice can damage skin tissue, and greasy substances can trap heat."
   },
   {
     "id": 13,
-    "text": "Once you have stopped the bleeding, you need to wash out the wound. Use soap and water to clean around the cut, but do not get the soap in the wound, making sure to remove any dirt from the wound. This may be more easily done under running water or even in a shower. Use a pair of tweezers cleaned with alcohol to gently pick out any dirt, gravel, glass, or other material in the cut. Cleaning the cut will prevent infections."
+    "text": "Small amounts of caffeine may help relieve migraine symptoms in the early stages, but overuse or withdrawal can also trigger migraines."
   },
   {
     "id": 14,
-    "text": "Direct pressure will stop 90% or more of wounds from bleeding. If the bandage soaks through, do not lift it up. Instead, apply an additional bandage on top of the first one."
+    "text": "A migraine is a recurrent, moderate to severe headache that usually affects one side of the head. It is often described as throbbing or pulsating and may come with nausea, vomiting, and sensitivity to light and sound."
   },
   {
     "id": 15,
-    "text": "Vaccinations would be needed in this scenario. If the person with the injury hasn't had a tetanus shot in the past five years, a booster may be needed. It is best to get the tetanus shot within 48 hours of the injury."
+    "text": "Seek medical attention if the person has:\n- A fever of 39.4°C (103°F) or higher that doesn't respond to medication\n- Severe headache, confusion, or stiff neck\n- Repeated vomiting and diarrhea\n- Severe lower abdominal pain or painful urination\n- Chest pain or difficulty breathing\n- A rapidly worsening skin rash"
   },
   {
     "id": 16,
-    "text": "Seek medical assistance if you cannot stop the heavy bleeding with direct firm pressure for 10–20 minutes."
+    "text": "A first-degree burn affects only the outer layer of skin. The area may appear red, warm, and painful. It may include minor swelling and small blisters."
   },
   {
     "id": 17,
-    "text": "Seek medical assistance if infection subsequently develops. Signs of infection include pain that becomes more severe, redness, drainage from the cut, increasing swelling and inability to move a joint, or becoming ill with a fever, headache, and nausea or vomiting."
+    "text": "Signs of smoke inhalation include coughing, sore throat, difficulty breathing, facial burns, and singed nasal hairs. Seek immediate medical care, even if symptoms are delayed."
   },
   {
     "id": 18,
-    "text": "Seek medical assistance if you cannot get debris out of the wound, such as dirt, stones, or gravel."
+    "text": "To stop the burning process, remove the person from the source of the burn. Douse flames with water or smother them with a blanket. Always ensure your own safety before helping someone else."
   },
   {
     "id": 19,
-    "text": "Lacerations are cuts, slices, or tears in the skin that are often caused by sharp objects like knives or broken glass. Bleeding may occur quickly in the cases of deep lacerations, so it is important to stop the bleeding by covering the wound and applying pressure. If bleeding is severe or will not stop, a medical emergency is needed."
+    "text": "When treating another person’s cut:\n\n- Wash your hands before and after treatment\n- Use disposable gloves or put your hands in a plastic bag\n- Avoid direct contact with the person's blood or body fluids\n- If blood contacts your skin, wash thoroughly with soap and water\n- Seek medical advice if there’s concern about infection risk"
   },
   {
     "id": 20,
-    "text": "If you are concerned about the possible risk of infection, obtain advice from a health care provider as soon as possible."
+    "text": "Warning signs include:\n- Fever in a baby 0–3 months old that reaches 100.4°F (38°C) or higher\n- Fever above 104°F (40°C)\n- Fever lasting more than 1 day in children under 2 years\n- Fever lasting more than 3 days in children 2 years or older\n- Symptoms like dry mouth, no wet diapers, no drinking fluids, stiff neck, rash, joint pain, or unusual behavior"
   },
   {
     "id": 21,
-    "text": "The first thing you want to do after being cut is to clean the wound and stop the bleeding. Use a sterile or clean pad and apply it firmly with hand pressure for a few minutes."
+    "text": "Yes, if a child of any age has repeated fevers above 104°F (40°C), you should seek medical attention promptly."
   },
   {
     "id": 22,
-    "text": "Avulsions are severe injuries that can cause uncontrolled, life-threatening bleeding. This type of injury typically occurs when skin or a body part is partially or completely torn away. These injuries often result from serious trauma, such as car or motorcycle accidents, explosions, or gunshots. In avulsions, bleeding will occur instantly and extensively, so an ambulance and emergency attention is immediately needed. For some avulsions, you may need to apply a tourniquet to stop the bleeding. If a body part is severed, it should be brought to the hospital for possible reattachment. Wrap the body part in a clean cloth and pack it in ice, if possible."
+    "text": "Clothing or jewelry should be removed quickly and gently from around the burn area because burns can cause rapid swelling. Leaving items in place could restrict blood flow or worsen the injury. Do not remove anything stuck to the burn."
   },
   {
     "id": 23,
-    "text": "Most cuts and scrapes are minor injuries that can be treated at home. If the patient is a child, make sure to calm them and let them know you can help."
+    "text": "Do not pop burn blisters. Cover them with a sterile, non-fluffy dressing. If you're concerned, consult a healthcare provider to avoid infection."
   },
   {
     "id": 24,
-    "text": "You can use a regular adhesive bandage or simply sterile gauze and a medical tape. Covering the wound helps prevent infection. However, if it is just a minor scrape, you can leave it uncovered; some wounds heal more quickly when left uncovered to stay dry. Change the dressing at least once a day or whenever the bandage becomes wet or dirty."
+    "text": "To treat a puncture wound:\n\n- Rinse the wound with clean water to remove dirt\n- Apply antibiotic ointment\n- Cover with a sterile bandage\n- Watch for signs of infection such as redness, pain, swelling, or fever"
   },
   {
     "id": 25,
-    "text": "Seek medical assistance if the cut is caused by a dirty or rusty object, animal or human bite, or a puncture wound. Seek medical advice if you're concerned about the possible risk of infection."
+    "text": "If your migraine lasts more than 72 hours with less than 4 hours pain-free, you should go to the ER. At 48 hours, monitor your symptoms closely and seek medical advice if the headache worsens or new symptoms appear."
+  },
+  {
+    "id": 26,
+    "text": "Avoid the following when treating a child's fever:\n- Giving aspirin to children under 18 due to risk of Reye’s syndrome\n- Using ice baths or ice packs, which can cause shivering and raise body temperature\n- Relying on hand-touch to assess fever; it is unreliable\n- Allowing the child to shiver in cold water\n- Using heavy clothing that traps heat"
+  },
+  {
+    "id": 27,
+    "text": "Cooling a burn can lower body temperature. Keeping the person warm with blankets or clothing (avoiding the burned area) helps prevent hypothermia, especially in children or the elderly."
+  },
+  {
+    "id": 28,
+    "text": "If your child is between 0–3 months old and has a rectal temperature of 100.4°F (38°C) or higher, seek medical help immediately—even if there are no other symptoms."
+  },
+  {
+    "id": 29,
+    "text": "Mild burns typically heal within one to two weeks and usually do not cause scarring."
+  },
+  {
+    "id": 30,
+    "text": "Cover the burn with a sterile nonstick gauze bandage. Wrap it loosely to avoid pressure. This helps reduce pain, protect the skin, and prevent infection. Avoid dressings that shed fibers."
+  },
+  {
+    "id": 31,
+    "text": "If your symptoms match your usual migraine and you have a treatment plan, you can manage it at home. If you don't have a plan or symptoms are severe or unusual, contact your doctor or go to the ER."
+  },
+  {
+    "id": 32,
+    "text": "To clean a cut:\n\n- Use soap and water to clean the skin around the wound\n- Avoid getting soap inside the wound\n- Rinse under running water or in the shower\n- Use sterilized tweezers to gently remove dirt, gravel, or other debris\n- Dry the area and cover it with a bandage to prevent infection"
+  },
+  {
+    "id": 33,
+    "text": "If you don’t have a treatment plan, speak with your physician. Having a plan can help you manage symptoms effectively and reduce the need for emergency care."
+  },
+  {
+    "id": 34,
+    "text": "Yes, you can give a child ibuprofen (Motrin) to relieve fever-related discomfort such as headaches, joint pain, or muscle aches. Always follow the dosing instructions on the label and consult a healthcare provider if unsure."
+  },
+  {
+    "id": 35,
+    "text": "Signs of dehydration in a child with fever include:\n- No wet diapers for 8–10 hours\n- Crying without tears\n- Dry mouth\n- Refusing to drink any fluids"
+  },
+  {
+    "id": 36,
+    "text": "Yes. Avoid NSAIDs like aspirin or ibuprofen if the patient has stomach ulcers, kidney disease, is pregnant, or has an aspirin allergy. Acetaminophen may be a safer alternative. Consult a doctor for guidance."
+  },
+  {
+    "id": 37,
+    "text": "If the second-degree burn is smaller than 2–3 inches (7 cm) in diameter:\n- Cool the burn under lukewarm running water or apply a cool, wet cloth.\n- Do not burst any blisters.\n- Apply aloe vera gel or burn ointment.\n- Cover with a sterile nonstick bandage.\n- Take pain relievers as needed.\nSeek medical help if the burn worsens or signs of infection develop."
+  },
+  {
+    "id": 38,
+    "text": "The first steps after a cut are:\n\n- Apply direct pressure using a clean or sterile pad for several minutes\n- Do not lift the bandage if blood soaks through — add a new one on top\n- Continue pressure until bleeding slows or stops"
+  },
+  {
+    "id": 39,
+    "text": "To treat an abrasion:\n\n- Rinse the area thoroughly with soap and water to prevent infection\n- Cover with a bandage if needed (for deeper abrasions)\n- Minor abrasions may heal best when left uncovered after cleaning"
+  },
+  {
+    "id": 40,
+    "text": "Aloe vera is anti-inflammatory, promotes healing, improves circulation, and reduces bacterial growth. Apply a thin layer of pure aloe vera gel directly to first- or second-degree burns after cooling the area."
+  },
+  {
+    "id": 41,
+    "text": "Yes, children between 6 months and 5 years can develop febrile seizures due to a fever. These seizures may happen again but are usually outgrown. Febrile seizures are not a sign of epilepsy, and treating the fever does not prevent them."
+  },
+  {
+    "id": 42,
+    "text": "Yes. Common food-related migraine triggers include:\n- Alcohol\n- Chocolate\n- Aged cheeses\n- MSG\n- Some fruits and nuts\n- Fermented or pickled items\n- Yeast\n- Cured or processed meats"
+  },
+  {
+    "id": 43,
+    "text": "A cut can be left uncovered if it is a minor scrape and stays clean and dry. Some wounds:\n\n- Heal faster when exposed to air\n- Still benefit from a covering to prevent infection, especially in dirty environments\n- Should be monitored and bandaged if healing slows or the area becomes irritated"
+  },
+  {
+    "id": 44,
+    "text": "Avulsions are severe injuries where skin or tissue is torn away. Treatment includes:\n\n- Call emergency services immediately\n- Apply pressure to control bleeding\n- If a body part is severed, wrap it in a clean cloth and keep it on ice\n- Some avulsions may require a tourniquet (only in extreme emergencies)"
+  },
+  {
+    "id": 45,
+    "text": "Antipyretics like acetaminophen (Tylenol) or ibuprofen (Motrin) can reduce fever and relieve discomfort such as headaches or muscle pain. Always follow the directions on the medication label."
+  },
+  {
+    "id": 46,
+    "text": "Home care strategies for a child with fever include:\n- Monitor the child's temperature and symptoms regularly\n- Ensure the child gets plenty of rest\n- Dress the child in light clothing and use a light sheet if they feel chilled\n- Encourage them to drink plenty of fluids such as water, juice, or popsicles\n- Bathe them in lukewarm water to help lower body temperature\n- Apply cool, damp cloths to the forehead, hands, and feet\n- Use fever-reducing medications like ibuprofen or acetaminophen for discomfort"
+  },
+  {
+    "id": 47,
+    "text": "A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound, and a small cut should stop bleeding quickly. Mild cuts should \"ooze,\" meaning bleed slowly, because bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow, which requires an immediate call for an ambulance or emergency care."
+  },
+  {
+    "id": 48,
+    "text": "Migraine medications should be monitored by a physician because overuse can cause side effects or medication-overuse headaches."
+  },
+  {
+    "id": 49,
+    "text": "A tetanus shot is needed if:\n\n- The person has not received a tetanus booster in the past 5 years\n- The wound is dirty, deep, or caused by a rusty or contaminated object\n- The shot is most effective when given within 48 hours of injury"
+  },
+  {
+    "id": 50,
+    "text": "Cooling a burn can lower body temperature. Keeping warm with blankets or clothing (not on the burn) helps prevent hypothermia, especially in young children and elderly adults."
+  },
+  {
+    "id": 51,
+    "text": "Never apply ice, butter, oils, toothpaste, or egg whites to a burn. These substances can irritate the skin, trap heat, or introduce bacteria, increasing the risk of infection."
+  },
+  {
+    "id": 52,
+    "text": "For babies aged 0–3 months with a rectal temperature of 38°C (100.4°F) or higher, seek medical attention right away, even if the child shows no other symptoms."
+  },
+  {
+    "id": 53,
+    "text": "Yes. Drinking fluids is especially important during a migraine, particularly if you are vomiting. Staying hydrated can help ease symptoms and speed recovery."
+  },
+  {
+    "id": 54,
+    "text": "You can give a child an antipyretic (fever-reducing medication) such as ibuprofen (Motrin) or acetaminophen (Tylenol) to relieve symptoms like headache or muscle pain. Always follow the instructions on the label. Do not give aspirin to children due to the risk of Reye’s syndrome."
+  },
+  {
+    "id": 55,
+    "text": "A second-degree burn affects both the outer and underlying layers of skin. The area appears very red, forms blisters, is extremely painful, and may swell significantly."
+  },
+  {
+    "id": 56,
+    "text": "For animal bites:\n\n- Determine if the animal's rabies vaccinations are up to date\n- Clean the wound thoroughly\n- Seek medical advice immediately to evaluate rabies risk and the need for post-exposure treatment"
+  },
+  {
+    "id": 57,
+    "text": "If your headache has lasted 48 hours (2 days) and matches your typical migraine pattern, follow your treatment plan. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief."
+  },
+  {
+    "id": 58,
+    "text": "If a child's fever is caused by heat exposure or heat stroke:\n- Move the child to a shaded or cool room immediately\n- Offer cool water to drink\n- After cooling, seek emergency medical treatment"
+  },
+  {
+    "id": 59,
+    "text": "Common symptoms of a migraine include one-sided throbbing head pain, nausea, vomiting, sensitivity to light and sound, weakness, and sometimes waking up with pain in the morning."
+  },
+  {
+    "id": 60,
+    "text": "Yes. Obesity is associated with a higher risk of developing chronic daily headaches. A weight loss program may help reduce migraine frequency."
+  },
+  {
+    "id": 61,
+    "text": "Recognizing your symptoms early and following a personalized treatment plan with your doctor can help you manage migraines at home and avoid unnecessary ER visits."
+  },
+  {
+    "id": 62,
+    "text": "Most cuts and scrapes are minor injuries that can be treated at home. Minor cuts and scrapes are often viewed as part of childhood and growing up, because it is very common for children to have them at home or school. A minor cut should stop bleeding quickly on its own. The body’s response is to clot the wound, and a small cut should stop bleeding quickly. Mild cuts should \"ooze,\" meaning bleed slowly, because bleeding should affect only the top layers of the skin and should not be gushing or have a pulsating flow, which requires an immediate call for an ambulance or emergency care."
+  },
+  {
+    "id": 63,
+    "text": "For minor burns, you can take over-the-counter pain relievers like ibuprofen (Advil, Motrin) or acetaminophen (Tylenol, paracetamol) to reduce pain and inflammation."
+  },
+  {
+    "id": 64,
+    "text": "Watch for the following signs of infection:\n\n- Pain that worsens over time\n- Redness spreading from the wound\n- Pus or drainage from the wound\n- Swelling or inability to move nearby joints\n- Fever, headache, nausea, or vomiting"
+  },
+  {
+    "id": 65,
+    "text": "Yes. Migraines may follow predictable patterns for some people, such as occurring before menstruation or after periods of intense stress or overwork."
+  },
+  {
+    "id": 66,
+    "text": "Fevers usually pass with time and help the body fight infection. Home care strategies include:\n- Monitor the patient’s temperature and symptoms\n- Ensure plenty of rest\n- Wear light clothing or use a light blanket if chills occur\n- Drink plenty of fluids to replace those lost through sweating\n- Take a lukewarm bath to cool the skin\n- Use cold compresses on the forehead, hands, and feet to reduce temperature\n- Use antipyretics like acetaminophen or ibuprofen if discomfort occurs (follow label instructions)"
+  },
+  {
+    "id": 67,
+    "text": "A fever is an increase in the normal body temperature. While normal temperature varies by person, it is usually around 98.6°F (37°C). A fever is not a disease, but a sign the body is fighting an illness."
+  },
+  {
+    "id": 68,
+    "text": "Yes. Skipping meals is a common trigger for migraines. Eating at regular intervals helps stabilize blood sugar and prevent headaches."
+  },
+  {
+    "id": 69,
+    "text": "Go to the ER if you experience:\n- The worst headache of your life\n- Confusion, fever, or loss of vision or consciousness\n- Neck stiffness, difficulty speaking, or weakness\n- Uncontrollable vomiting\n- A headache lasting over 72 hours with less than 4 hours pain-free\n- A headache that peaks within 1–2 minutes"
+  },
+  {
+    "id": 70,
+    "text": "To treat a mild cut or scrape at home:\n\n- Wash your hands before touching the wound\n- Avoid contact with blood by using gloves or a plastic bag\n- Apply firm pressure with a clean pad for a few minutes to stop bleeding\n- Clean the area around the wound with soap and water (avoid getting soap in the wound)\n- Use sterilized tweezers to remove debris like dirt or glass\n- Cover the wound with a sterile bandage or gauze and medical tape\n- Change the dressing daily or whenever it becomes wet or dirty"
+  },
+  {
+    "id": 71,
+    "text": "No, placing a palm on someone's forehead is unreliable. Use a thermometer to accurately measure body temperature."
+  },
+  {
+    "id": 72,
+    "text": "Do not attempt to remove clothing that is stuck to the burnt skin. Pulling it away can cause further tissue damage. Seek medical help if needed."
+  },
+  {
+    "id": 73,
+    "text": "No, do not give an ice bath. Ice baths can cause sustained shivering or chills, which may raise the body temperature further."
+  },
+  {
+    "id": 74,
+    "text": "Helpful lifestyle changes include regular exercise, eating scheduled meals, staying hydrated, managing stress, avoiding migraine-triggering foods and medications, maintaining a consistent sleep schedule, and pursuing weight loss if obese."
+  },
+  {
+    "id": 75,
+    "text": "Sudden weather changes, bright lights, loud sounds, and strong smells are common environmental triggers that can initiate migraine attacks in some individuals."
+  },
+  {
+    "id": 76,
+    "text": "If a migraine wakes you up, try resting in a quiet, dark room and apply a cool cloth to your forehead. Avoid bright light or loud noise and stay hydrated."
+  },
+  {
+    "id": 77,
+    "text": "If your headache has lasted 24 hours, follow your treatment plan if you have one. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief."
+  },
+  {
+    "id": 78,
+    "text": "Natural supplements like butterbur or coenzyme Q10 may help some people, but always consult a physician before starting them to ensure safe and coordinated care."
+  },
+  {
+    "id": 79,
+    "text": "Cooling a burn with lukewarm water helps reduce pain and heat without damaging skin tissue. Ice or iced water can cause further injury to the skin and should never be used."
+  },
+  {
+    "id": 80,
+    "text": "To treat a mild cut or scrape:\n\n- Wash your hands before touching the wound\n- Avoid contact with blood by using gloves or a plastic bag\n- Apply firm pressure with a clean pad for a few minutes to stop bleeding\n- Clean the area around the wound with soap and water (avoid getting soap in the wound)\n- Use sterilized tweezers to remove debris like dirt or glass\n- Cover the wound with a sterile bandage or gauze and medical tape\n- Change the dressing daily or whenever it becomes wet or dirty"
+  },
+  {
+    "id": 81,
+    "text": "If your migraine has lasted 24 hours, follow your treatment plan if you have one. If you don’t have a plan or your symptoms are severe, unusual, or worsening, consult a doctor. Seek emergency care if the headache lasts more than 72 hours with less than 4 hours of relief."
+  },
+  {
+    "id": 82,
+    "text": "Seek medical attention if there is persistent fever not relieved by medication, redness spreading beyond the burn, or if pain is not controlled by ibuprofen or acetaminophen."
+  },
+  {
+    "id": 83,
+    "text": "To treat a minor burn:\n- Stop the burning process and remove the person from danger.\n- Remove clothing or jewelry near the burned area, unless stuck to the skin.\n- Cool the burn with lukewarm running water or a cool compress—never use ice or greasy substances.\n- Keep the person warm but avoid covering the burn directly.\n- Apply aloe vera lotion after cooling.\n- Cover with a sterile, nonstick gauze bandage.\n- Take ibuprofen or acetaminophen for pain relief.\n- Monitor for signs of infection and seek care if needed."
+  },
+  {
+    "id": 84,
+    "text": "No. Third-degree burns are medical emergencies and should not be treated at home. Call emergency services or go to the nearest healthcare facility immediately."
+  },
+  {
+    "id": 85,
+    "text": "Burns can allow tetanus bacteria to enter the body. If your last tetanus shot was over 5 years ago, you may need a booster after a burn. Contact your healthcare provider."
+  },
+  {
+    "id": 86,
+    "text": "Seek medical help if:\n- A child 0–3 months old has a rectal temperature of 100.4°F (38°C) or higher\n- A child has repeated fevers above 104°F (40°C)\n- A child under 2 years has a fever of 100.4°F (38°C) lasting more than 1 day\n- A child 2 years or older has a fever of 100.4°F (38°C) lasting more than 3 days\n- A child shows signs of dehydration, a stiff neck, headache, rash, joint pain or swelling, or any unusual symptoms\n- A baby is fussy or inconsolable"
+  },
+  {
+    "id": 87,
+    "text": "Home care for migraine relief includes:\n- Resting in a quiet, dark room\n- Placing a cool cloth or ice pack on the forehead\n- Drinking fluids, especially if vomiting occurs\n- Maintaining a regular sleep schedule and diet\n- Avoiding known triggers"
+  },
+  {
+    "id": 88,
+    "text": "A fever in children is an increase in the normal body temperature, typically above 98.6°F (37°C). It is not a disease but a sign that the body is trying to fight an illness."
+  },
+  {
+    "id": 89,
+    "text": "Yes. Once the burn is completely cooled, applying a lotion that contains aloe vera can aid healing, relieve pain, reduce inflammation, and help prevent blistering and scarring."
+  },
+  {
+    "id": 90,
+    "text": "Yes, you can give a child acetaminophen (Tylenol) to help reduce fever and ease discomfort. Be sure to follow the instructions on the label and consult a healthcare provider if needed. Do not give both ibuprofen and acetaminophen at the same time unless instructed by a doctor."
+  },
+  {
+    "id": 91,
+    "text": "If a child 2 years or older has a fever of 100.4°F (38°C) for more than 3 days, seek medical advice to rule out underlying causes."
+  },
+  {
+    "id": 92,
+    "text": "To protect a healing burn:\n- Wash your hands before touching the wound\n- Use a clean, sterile dressing\n- Apply antibiotic ointment like Neosporin or Bacitracin\n- Avoid popping blisters\n- Change the bandage daily or as advised\n- Watch for signs of infection"
+  },
+  {
+    "id": 93,
+    "text": "A third-degree burn is a serious injury involving all layers of the skin. The affected area may appear white, charred, or leathery and might not be painful due to nerve damage. It requires immediate medical attention."
+  },
+  {
+    "id": 94,
+    "text": "If a child’s fever of 102°F (38.9°C) or higher does not respond to medication, and the child shows symptoms like dehydration, rash, stiff neck, headache, or other unusual symptoms, seek medical help right away."
+  },
+  {
+    "id": 95,
+    "text": "Avoid using an ice pack on the skin. It can cause involuntary shivering, which raises body temperature and may worsen the fever."
+  },
+  {
+    "id": 96,
+    "text": "Common migraine triggers include:\n- Stress or anxiety\n- Hormonal changes\n- Bright lights, loud sounds, or strong smells\n- Sleep disruptions\n- Sudden weather or environmental changes\n- Overexertion\n- Tobacco or caffeine use, or caffeine withdrawal\n- Skipping meals or overusing medication"
+  },
+  {
+    "id": 97,
+    "text": "Seek professional medical care if:\n\n- The cut is deep (more than 1 inch / 2.5 cm), jagged, or has visible fat or muscle\n- The wound was caused by a dirty or rusty object, animal or human bite, or is a puncture\n- You cannot remove all debris from the wound\n- Bleeding continues after 10–20 minutes of firm pressure\n- Signs of infection appear (pain, swelling, redness, fever, nausea)\n- The cut is near the eye or is large and on the face"
+  },
+  {
+    "id": 98,
+    "text": "There are four common types of skin injuries:\n\n1. **Abrasions** – Surface scrapes usually caused by friction\n2. **Lacerations** – Deep cuts or tears caused by sharp objects\n3. **Punctures** – Small but deep wounds caused by pointed objects\n4. **Avulsions** – Skin or tissue is partially or completely torn away, often due to trauma"
+  },
+  {
+    "id": 99,
+    "text": "Move the person to a shaded or cool area immediately and offer cool water to drink. After cooling them down, seek emergency medical care."
   }
 ]

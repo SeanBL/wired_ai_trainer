@@ -1,0 +1,25 @@
+📊 Validation Report for sbert_burns_qa_robust
+Total QA pairs: 29
+✅ Supported (similarity ≥ 0.7): 26
+❌ Skipped (below threshold): 3
+⚠️ Redundant questions (≥ 0.9): 0
+📎 Duplicates: 0
+
+❌ Low-similarity QAs:
+
+  #3 (Sim: 0.632)
+  Q: When should I seek medical help for a burn?
+  A: Seek medical help if:
+- The burn is chemical or electrical.
+- The burn is large, deep, white, or charred.
+- Blisters form on face, hands, feet, genitals, or major joints.
+- The person shows signs of shock or smoke inhalation.
+- The person is pregnant, under 5, over 60, or has chronic health conditions or a weakened immune system.
+
+  #18 (Sim: 0.686)
+  Q: Why is keeping warm important after a burn?
+  A: Cooling a burn can lower body temperature. Keeping the person warm with blankets or clothing (avoiding the burned area) helps prevent hypothermia, especially in children or the elderly.
+
+  #27 (Sim: 0.578)
+  Q: When should I see a doctor for a minor burn?
+  A: Seek medical attention if there is persistent fever not relieved by medication, redness spreading beyond the burn, or if pain is not controlled by ibuprofen or acetaminophen.

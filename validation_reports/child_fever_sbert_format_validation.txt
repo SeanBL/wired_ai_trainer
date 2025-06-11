@@ -1,0 +1,22 @@
+📊 Validation Report for child_fever_sbert_format
+Total QA pairs: 18
+✅ Supported (similarity ≥ 0.7): 17
+❌ Skipped (below threshold): 1
+⚠️ Redundant questions (≥ 0.9): 2
+📎 Duplicates: 0
+
+❌ Low-similarity QAs:
+
+  #12 (Sim: 0.682)
+  Q: My 3-month-old baby has a temperature of 38°C. What should I do?
+  A: For babies aged 0–3 months with a rectal temperature of 38°C (100.4°F) or higher, seek medical attention right away, even if the child shows no other symptoms.
+
+⚠️ Redundant Questions:
+
+  Q11 ↔ Q12 (Sim: 0.923)
+    Q1: My 3-month-old baby has a temperature of 100°F. What should I do?
+    Q2: My 3-month-old baby has a temperature of 38°C. What should I do?
+
+  Q14 ↔ Q15 (Sim: 0.939)
+    Q1: My child under 2 years old has a mild fever for more than a day. What should I do?
+    Q2: My 2-year-old has had a mild fever for 3 days. What should I do?

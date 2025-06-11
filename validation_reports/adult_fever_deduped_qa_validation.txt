@@ -1,0 +1,34 @@
+📊 Validation Report for adult_fever_deduped_qa
+Total QA pairs: 10
+✅ Supported (similarity ≥ 0.7): 5
+❌ Skipped (below threshold): 5
+⚠️ Redundant questions (≥ 0.9): 0
+📎 Duplicates: 0
+
+❌ Low-similarity QAs:
+
+  #4 (Sim: 0.546)
+  Q: How do I safely apply cold compresses for a fever?
+  A: Soak a towel or washcloth in cool water, wring out excess water, and apply it to the forehead, hands, and feet. Applying cold compresses continuously over the body may reduce core temperature by 2–3°F in 20–30 minutes.
+
+  #5 (Sim: 0.666)
+  Q: When should I seek medical help for a fever?
+  A: Seek medical attention if the person has:
+- A fever of 39.4°C (103°F) or higher that doesn't respond to medication
+- Severe headache, confusion, or stiff neck
+- Repeated vomiting and diarrhea
+- Severe lower abdominal pain or painful urination
+- Chest pain or difficulty breathing
+- A rapidly worsening skin rash
+
+  #7 (Sim: 0.601)
+  Q: Are there cases where ibuprofen or aspirin should be avoided for fever?
+  A: Yes. Avoid NSAIDs like aspirin or ibuprofen if the patient has stomach ulcers, kidney disease, is pregnant, or has an aspirin allergy. Acetaminophen may be a safer alternative. Consult a doctor for guidance.
+
+  #8 (Sim: 0.478)
+  Q: How should I respond if someone has a fever due to heat stroke?
+  A: Move the person to a shaded or cool area immediately and offer cool water to drink. After cooling them down, seek emergency medical care.
+
+  #9 (Sim: 0.685)
+  Q: Is touching someone’s forehead a reliable way to check for fever?
+  A: No, placing a palm on someone's forehead is unreliable. Use a thermometer to accurately measure body temperature.
